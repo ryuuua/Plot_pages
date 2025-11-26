@@ -1,0 +1,2792 @@
+{
+  "baseUrl": "data_image",
+  "sourceDir": "/Users/ryua/code/CEBRA_results/data_image",
+  "generatedAt": "2025-11-26T01:16:01.298Z",
+  "categoryCount": 11,
+  "totalItems": 451,
+  "categories": [
+    {
+      "name": "daircos:all-MiniLM-L6-v2_plot",
+      "slug": "daircos-all-minilm-l6-v2-plot",
+      "path": "daircos:all-MiniLM-L6-v2_plot",
+      "items": [
+        {
+          "file": "static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "static PCA plot",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "name": "daircos:google:embeddinggemma-300M_plot",
+      "slug": "daircos-google-embeddinggemma-300m-plot",
+      "path": "daircos:google:embeddinggemma-300M_plot",
+      "items": [
+        {
+          "file": "static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 10.png",
+          "filename": "static_PCA_plot 10.png",
+          "title": "static PCA plot 10",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "static PCA plot",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "name": "daircos:Qwen:Qwen3-Embedding-8B_plot",
+      "slug": "daircos-qwen-qwen3-embedding-8b-plot",
+      "path": "daircos:Qwen:Qwen3-Embedding-8B_plot",
+      "items": [
+        {
+          "file": "static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 10.png",
+          "filename": "static_PCA_plot 10.png",
+          "title": "static PCA plot 10",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "static PCA plot",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "name": "daircos:sentence-transformers:all-mpnet-base-v2_plot",
+      "slug": "daircos-sentence-transformers-all-mpnet-base-v2-plot",
+      "path": "daircos:sentence-transformers:all-mpnet-base-v2_plot",
+      "items": [
+        {
+          "file": "static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 10.png",
+          "filename": "static_PCA_plot 10.png",
+          "title": "static PCA plot 10",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "static PCA plot",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "name": "daireuc:all-MiniLM-L6-v2_plot",
+      "slug": "daireuc-all-minilm-l6-v2-plot",
+      "path": "daireuc:all-MiniLM-L6-v2_plot",
+      "items": [
+        {
+          "file": "static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 10.png",
+          "filename": "static_PCA_plot 10.png",
+          "title": "static PCA plot 10",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "static PCA plot",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "name": "daireuc:google:embeddinggemma-300M_plot",
+      "slug": "daireuc-google-embeddinggemma-300m-plot",
+      "path": "daireuc:google:embeddinggemma-300M_plot",
+      "items": [
+        {
+          "file": "static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "static PCA plot",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "name": "daireuc:Qwen:Qwen3-Embedding-8B_plot",
+      "slug": "daireuc-qwen-qwen3-embedding-8b-plot",
+      "path": "daireuc:Qwen:Qwen3-Embedding-8B_plot",
+      "items": [
+        {
+          "file": "static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "static PCA plot",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "name": "goemo6cos:google:embeddinggemma-300M_plot",
+      "slug": "goemo6cos-google-embeddinggemma-300m-plot",
+      "path": "goemo6cos:google:embeddinggemma-300M_plot",
+      "items": [
+        {
+          "file": "static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 10.png",
+          "filename": "static_PCA_plot 10.png",
+          "title": "static PCA plot 10",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "static PCA plot",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "name": "goemo6euc:google:embeddinggemma-300M_plot",
+      "slug": "goemo6euc-google-embeddinggemma-300m-plot",
+      "path": "goemo6euc:google:embeddinggemma-300M_plot",
+      "items": [
+        {
+          "file": "static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot 10.png",
+          "filename": "static_PCA_plot 10.png",
+          "title": "static PCA plot 10",
+          "type": "image"
+        },
+        {
+          "file": "static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "static PCA plot",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "name": "PCA_embedding",
+      "slug": "pca-embedding",
+      "path": "PCA_embedding",
+      "items": [
+        {
+          "file": "ag_news/01-bert-base-uncased/ag_news_01_pca_embeddings_2d.html",
+          "filename": "ag_news_01_pca_embeddings_2d.html",
+          "title": "ag news / 01 bert base uncased — ag news 01 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/01-bert-base-uncased/ag_news_01_pca_embeddings_2d.png",
+          "filename": "ag_news_01_pca_embeddings_2d.png",
+          "title": "ag news / 01 bert base uncased — ag news 01 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/01-bert-base-uncased/ag_news_01_pca_embeddings_2d.svg",
+          "filename": "ag_news_01_pca_embeddings_2d.svg",
+          "title": "ag news / 01 bert base uncased — ag news 01 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/01-bert-base-uncased/ag_news_01_pca_embeddings_3d.html",
+          "filename": "ag_news_01_pca_embeddings_3d.html",
+          "title": "ag news / 01 bert base uncased — ag news 01 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/01-bert-base-uncased/ag_news_01_pca_embeddings_3d.png",
+          "filename": "ag_news_01_pca_embeddings_3d.png",
+          "title": "ag news / 01 bert base uncased — ag news 01 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/01-bert-base-uncased/ag_news_01_pca_embeddings_3d.svg",
+          "filename": "ag_news_01_pca_embeddings_3d.svg",
+          "title": "ag news / 01 bert base uncased — ag news 01 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/02-bert-base-uncased/ag_news_02_pca_embeddings_2d.html",
+          "filename": "ag_news_02_pca_embeddings_2d.html",
+          "title": "ag news / 02 bert base uncased — ag news 02 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/02-bert-base-uncased/ag_news_02_pca_embeddings_2d.png",
+          "filename": "ag_news_02_pca_embeddings_2d.png",
+          "title": "ag news / 02 bert base uncased — ag news 02 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/02-bert-base-uncased/ag_news_02_pca_embeddings_2d.svg",
+          "filename": "ag_news_02_pca_embeddings_2d.svg",
+          "title": "ag news / 02 bert base uncased — ag news 02 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/02-bert-base-uncased/ag_news_02_pca_embeddings_3d.html",
+          "filename": "ag_news_02_pca_embeddings_3d.html",
+          "title": "ag news / 02 bert base uncased — ag news 02 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/02-bert-base-uncased/ag_news_02_pca_embeddings_3d.png",
+          "filename": "ag_news_02_pca_embeddings_3d.png",
+          "title": "ag news / 02 bert base uncased — ag news 02 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/02-bert-base-uncased/ag_news_02_pca_embeddings_3d.svg",
+          "filename": "ag_news_02_pca_embeddings_3d.svg",
+          "title": "ag news / 02 bert base uncased — ag news 02 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/03-ibm-granite_granite-embedding-english-r2/ag_news_03_pca_embeddings_2d.html",
+          "filename": "ag_news_03_pca_embeddings_2d.html",
+          "title": "ag news / 03 ibm granite granite embedding english r2 — ag news 03 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/03-ibm-granite_granite-embedding-english-r2/ag_news_03_pca_embeddings_2d.png",
+          "filename": "ag_news_03_pca_embeddings_2d.png",
+          "title": "ag news / 03 ibm granite granite embedding english r2 — ag news 03 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/03-ibm-granite_granite-embedding-english-r2/ag_news_03_pca_embeddings_2d.svg",
+          "filename": "ag_news_03_pca_embeddings_2d.svg",
+          "title": "ag news / 03 ibm granite granite embedding english r2 — ag news 03 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/03-ibm-granite_granite-embedding-english-r2/ag_news_03_pca_embeddings_3d.html",
+          "filename": "ag_news_03_pca_embeddings_3d.html",
+          "title": "ag news / 03 ibm granite granite embedding english r2 — ag news 03 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/03-ibm-granite_granite-embedding-english-r2/ag_news_03_pca_embeddings_3d.png",
+          "filename": "ag_news_03_pca_embeddings_3d.png",
+          "title": "ag news / 03 ibm granite granite embedding english r2 — ag news 03 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/03-ibm-granite_granite-embedding-english-r2/ag_news_03_pca_embeddings_3d.svg",
+          "filename": "ag_news_03_pca_embeddings_3d.svg",
+          "title": "ag news / 03 ibm granite granite embedding english r2 — ag news 03 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/04-inaai_jina-embeddings-v2-base-en/ag_news_04_pca_embeddings_2d.html",
+          "filename": "ag_news_04_pca_embeddings_2d.html",
+          "title": "ag news / 04 inaai jina embeddings v2 base en — ag news 04 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/04-inaai_jina-embeddings-v2-base-en/ag_news_04_pca_embeddings_2d.png",
+          "filename": "ag_news_04_pca_embeddings_2d.png",
+          "title": "ag news / 04 inaai jina embeddings v2 base en — ag news 04 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/04-inaai_jina-embeddings-v2-base-en/ag_news_04_pca_embeddings_2d.svg",
+          "filename": "ag_news_04_pca_embeddings_2d.svg",
+          "title": "ag news / 04 inaai jina embeddings v2 base en — ag news 04 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/04-inaai_jina-embeddings-v2-base-en/ag_news_04_pca_embeddings_3d.html",
+          "filename": "ag_news_04_pca_embeddings_3d.html",
+          "title": "ag news / 04 inaai jina embeddings v2 base en — ag news 04 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/04-inaai_jina-embeddings-v2-base-en/ag_news_04_pca_embeddings_3d.png",
+          "filename": "ag_news_04_pca_embeddings_3d.png",
+          "title": "ag news / 04 inaai jina embeddings v2 base en — ag news 04 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/04-inaai_jina-embeddings-v2-base-en/ag_news_04_pca_embeddings_3d.svg",
+          "filename": "ag_news_04_pca_embeddings_3d.svg",
+          "title": "ag news / 04 inaai jina embeddings v2 base en — ag news 04 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/05-Qwen_Qwen3-Embedding-8B/ag_news_05_pca_embeddings_2d.html",
+          "filename": "ag_news_05_pca_embeddings_2d.html",
+          "title": "ag news / 05 Qwen Qwen3 Embedding 8B — ag news 05 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/05-Qwen_Qwen3-Embedding-8B/ag_news_05_pca_embeddings_2d.png",
+          "filename": "ag_news_05_pca_embeddings_2d.png",
+          "title": "ag news / 05 Qwen Qwen3 Embedding 8B — ag news 05 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/05-Qwen_Qwen3-Embedding-8B/ag_news_05_pca_embeddings_2d.svg",
+          "filename": "ag_news_05_pca_embeddings_2d.svg",
+          "title": "ag news / 05 Qwen Qwen3 Embedding 8B — ag news 05 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/05-Qwen_Qwen3-Embedding-8B/ag_news_05_pca_embeddings_3d.html",
+          "filename": "ag_news_05_pca_embeddings_3d.html",
+          "title": "ag news / 05 Qwen Qwen3 Embedding 8B — ag news 05 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/05-Qwen_Qwen3-Embedding-8B/ag_news_05_pca_embeddings_3d.png",
+          "filename": "ag_news_05_pca_embeddings_3d.png",
+          "title": "ag news / 05 Qwen Qwen3 Embedding 8B — ag news 05 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/05-Qwen_Qwen3-Embedding-8B/ag_news_05_pca_embeddings_3d.svg",
+          "filename": "ag_news_05_pca_embeddings_3d.svg",
+          "title": "ag news / 05 Qwen Qwen3 Embedding 8B — ag news 05 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/06-roberta-base/ag_news_06_pca_embeddings_2d.html",
+          "filename": "ag_news_06_pca_embeddings_2d.html",
+          "title": "ag news / 06 roberta base — ag news 06 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/06-roberta-base/ag_news_06_pca_embeddings_2d.png",
+          "filename": "ag_news_06_pca_embeddings_2d.png",
+          "title": "ag news / 06 roberta base — ag news 06 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/06-roberta-base/ag_news_06_pca_embeddings_2d.svg",
+          "filename": "ag_news_06_pca_embeddings_2d.svg",
+          "title": "ag news / 06 roberta base — ag news 06 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/06-roberta-base/ag_news_06_pca_embeddings_3d.html",
+          "filename": "ag_news_06_pca_embeddings_3d.html",
+          "title": "ag news / 06 roberta base — ag news 06 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/06-roberta-base/ag_news_06_pca_embeddings_3d.png",
+          "filename": "ag_news_06_pca_embeddings_3d.png",
+          "title": "ag news / 06 roberta base — ag news 06 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/06-roberta-base/ag_news_06_pca_embeddings_3d.svg",
+          "filename": "ag_news_06_pca_embeddings_3d.svg",
+          "title": "ag news / 06 roberta base — ag news 06 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/07-sentence-transformers_all-mpnet-base-v2/ag_news_07_pca_embeddings_2d.html",
+          "filename": "ag_news_07_pca_embeddings_2d.html",
+          "title": "ag news / 07 sentence transformers all mpnet base v2 — ag news 07 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/07-sentence-transformers_all-mpnet-base-v2/ag_news_07_pca_embeddings_2d.png",
+          "filename": "ag_news_07_pca_embeddings_2d.png",
+          "title": "ag news / 07 sentence transformers all mpnet base v2 — ag news 07 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/07-sentence-transformers_all-mpnet-base-v2/ag_news_07_pca_embeddings_2d.svg",
+          "filename": "ag_news_07_pca_embeddings_2d.svg",
+          "title": "ag news / 07 sentence transformers all mpnet base v2 — ag news 07 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/07-sentence-transformers_all-mpnet-base-v2/ag_news_07_pca_embeddings_3d.html",
+          "filename": "ag_news_07_pca_embeddings_3d.html",
+          "title": "ag news / 07 sentence transformers all mpnet base v2 — ag news 07 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/07-sentence-transformers_all-mpnet-base-v2/ag_news_07_pca_embeddings_3d.png",
+          "filename": "ag_news_07_pca_embeddings_3d.png",
+          "title": "ag news / 07 sentence transformers all mpnet base v2 — ag news 07 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/07-sentence-transformers_all-mpnet-base-v2/ag_news_07_pca_embeddings_3d.svg",
+          "filename": "ag_news_07_pca_embeddings_3d.svg",
+          "title": "ag news / 07 sentence transformers all mpnet base v2 — ag news 07 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/08-all-MiniLM-L6-v2/ag_news_08_pca_embeddings_2d.html",
+          "filename": "ag_news_08_pca_embeddings_2d.html",
+          "title": "ag news / 08 all MiniLM L6 v2 — ag news 08 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/08-all-MiniLM-L6-v2/ag_news_08_pca_embeddings_2d.png",
+          "filename": "ag_news_08_pca_embeddings_2d.png",
+          "title": "ag news / 08 all MiniLM L6 v2 — ag news 08 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/08-all-MiniLM-L6-v2/ag_news_08_pca_embeddings_2d.svg",
+          "filename": "ag_news_08_pca_embeddings_2d.svg",
+          "title": "ag news / 08 all MiniLM L6 v2 — ag news 08 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/08-all-MiniLM-L6-v2/ag_news_08_pca_embeddings_3d.html",
+          "filename": "ag_news_08_pca_embeddings_3d.html",
+          "title": "ag news / 08 all MiniLM L6 v2 — ag news 08 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "ag_news/08-all-MiniLM-L6-v2/ag_news_08_pca_embeddings_3d.png",
+          "filename": "ag_news_08_pca_embeddings_3d.png",
+          "title": "ag news / 08 all MiniLM L6 v2 — ag news 08 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "ag_news/08-all-MiniLM-L6-v2/ag_news_08_pca_embeddings_3d.svg",
+          "filename": "ag_news_08_pca_embeddings_3d.svg",
+          "title": "ag news / 08 all MiniLM L6 v2 — ag news 08 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/01-bert-base-uncased/dair-ai_01_pca_embeddings_2d.html",
+          "filename": "dair-ai_01_pca_embeddings_2d.html",
+          "title": "dair ai / 01 bert base uncased — dair ai 01 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/01-bert-base-uncased/dair-ai_01_pca_embeddings_2d.png",
+          "filename": "dair-ai_01_pca_embeddings_2d.png",
+          "title": "dair ai / 01 bert base uncased — dair ai 01 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/01-bert-base-uncased/dair-ai_01_pca_embeddings_2d.svg",
+          "filename": "dair-ai_01_pca_embeddings_2d.svg",
+          "title": "dair ai / 01 bert base uncased — dair ai 01 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/01-bert-base-uncased/dair-ai_01_pca_embeddings_3d.html",
+          "filename": "dair-ai_01_pca_embeddings_3d.html",
+          "title": "dair ai / 01 bert base uncased — dair ai 01 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/01-bert-base-uncased/dair-ai_01_pca_embeddings_3d.png",
+          "filename": "dair-ai_01_pca_embeddings_3d.png",
+          "title": "dair ai / 01 bert base uncased — dair ai 01 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/01-bert-base-uncased/dair-ai_01_pca_embeddings_3d.svg",
+          "filename": "dair-ai_01_pca_embeddings_3d.svg",
+          "title": "dair ai / 01 bert base uncased — dair ai 01 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/02-bert-base-uncased/dair-ai_02_pca_embeddings_2d.html",
+          "filename": "dair-ai_02_pca_embeddings_2d.html",
+          "title": "dair ai / 02 bert base uncased — dair ai 02 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/02-bert-base-uncased/dair-ai_02_pca_embeddings_2d.png",
+          "filename": "dair-ai_02_pca_embeddings_2d.png",
+          "title": "dair ai / 02 bert base uncased — dair ai 02 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/02-bert-base-uncased/dair-ai_02_pca_embeddings_2d.svg",
+          "filename": "dair-ai_02_pca_embeddings_2d.svg",
+          "title": "dair ai / 02 bert base uncased — dair ai 02 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/02-bert-base-uncased/dair-ai_02_pca_embeddings_3d.html",
+          "filename": "dair-ai_02_pca_embeddings_3d.html",
+          "title": "dair ai / 02 bert base uncased — dair ai 02 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/02-bert-base-uncased/dair-ai_02_pca_embeddings_3d.png",
+          "filename": "dair-ai_02_pca_embeddings_3d.png",
+          "title": "dair ai / 02 bert base uncased — dair ai 02 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/02-bert-base-uncased/dair-ai_02_pca_embeddings_3d.svg",
+          "filename": "dair-ai_02_pca_embeddings_3d.svg",
+          "title": "dair ai / 02 bert base uncased — dair ai 02 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/03-ibm-granite_granite-embedding-english-r2/dair-ai_03_pca_embeddings_2d.html",
+          "filename": "dair-ai_03_pca_embeddings_2d.html",
+          "title": "dair ai / 03 ibm granite granite embedding english r2 — dair ai 03 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/03-ibm-granite_granite-embedding-english-r2/dair-ai_03_pca_embeddings_2d.png",
+          "filename": "dair-ai_03_pca_embeddings_2d.png",
+          "title": "dair ai / 03 ibm granite granite embedding english r2 — dair ai 03 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/03-ibm-granite_granite-embedding-english-r2/dair-ai_03_pca_embeddings_2d.svg",
+          "filename": "dair-ai_03_pca_embeddings_2d.svg",
+          "title": "dair ai / 03 ibm granite granite embedding english r2 — dair ai 03 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/03-ibm-granite_granite-embedding-english-r2/dair-ai_03_pca_embeddings_3d.html",
+          "filename": "dair-ai_03_pca_embeddings_3d.html",
+          "title": "dair ai / 03 ibm granite granite embedding english r2 — dair ai 03 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/03-ibm-granite_granite-embedding-english-r2/dair-ai_03_pca_embeddings_3d.png",
+          "filename": "dair-ai_03_pca_embeddings_3d.png",
+          "title": "dair ai / 03 ibm granite granite embedding english r2 — dair ai 03 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/03-ibm-granite_granite-embedding-english-r2/dair-ai_03_pca_embeddings_3d.svg",
+          "filename": "dair-ai_03_pca_embeddings_3d.svg",
+          "title": "dair ai / 03 ibm granite granite embedding english r2 — dair ai 03 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/04-inaai_jina-embeddings-v2-base-en/dair-ai_04_pca_embeddings_2d.html",
+          "filename": "dair-ai_04_pca_embeddings_2d.html",
+          "title": "dair ai / 04 inaai jina embeddings v2 base en — dair ai 04 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/04-inaai_jina-embeddings-v2-base-en/dair-ai_04_pca_embeddings_2d.png",
+          "filename": "dair-ai_04_pca_embeddings_2d.png",
+          "title": "dair ai / 04 inaai jina embeddings v2 base en — dair ai 04 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/04-inaai_jina-embeddings-v2-base-en/dair-ai_04_pca_embeddings_2d.svg",
+          "filename": "dair-ai_04_pca_embeddings_2d.svg",
+          "title": "dair ai / 04 inaai jina embeddings v2 base en — dair ai 04 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/04-inaai_jina-embeddings-v2-base-en/dair-ai_04_pca_embeddings_3d.html",
+          "filename": "dair-ai_04_pca_embeddings_3d.html",
+          "title": "dair ai / 04 inaai jina embeddings v2 base en — dair ai 04 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/04-inaai_jina-embeddings-v2-base-en/dair-ai_04_pca_embeddings_3d.png",
+          "filename": "dair-ai_04_pca_embeddings_3d.png",
+          "title": "dair ai / 04 inaai jina embeddings v2 base en — dair ai 04 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/04-inaai_jina-embeddings-v2-base-en/dair-ai_04_pca_embeddings_3d.svg",
+          "filename": "dair-ai_04_pca_embeddings_3d.svg",
+          "title": "dair ai / 04 inaai jina embeddings v2 base en — dair ai 04 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/05-Qwen_Qwen3-Embedding-8B/dair-ai_05_pca_embeddings_2d.html",
+          "filename": "dair-ai_05_pca_embeddings_2d.html",
+          "title": "dair ai / 05 Qwen Qwen3 Embedding 8B — dair ai 05 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/05-Qwen_Qwen3-Embedding-8B/dair-ai_05_pca_embeddings_2d.png",
+          "filename": "dair-ai_05_pca_embeddings_2d.png",
+          "title": "dair ai / 05 Qwen Qwen3 Embedding 8B — dair ai 05 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/05-Qwen_Qwen3-Embedding-8B/dair-ai_05_pca_embeddings_2d.svg",
+          "filename": "dair-ai_05_pca_embeddings_2d.svg",
+          "title": "dair ai / 05 Qwen Qwen3 Embedding 8B — dair ai 05 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/05-Qwen_Qwen3-Embedding-8B/dair-ai_05_pca_embeddings_3d.html",
+          "filename": "dair-ai_05_pca_embeddings_3d.html",
+          "title": "dair ai / 05 Qwen Qwen3 Embedding 8B — dair ai 05 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/05-Qwen_Qwen3-Embedding-8B/dair-ai_05_pca_embeddings_3d.png",
+          "filename": "dair-ai_05_pca_embeddings_3d.png",
+          "title": "dair ai / 05 Qwen Qwen3 Embedding 8B — dair ai 05 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/05-Qwen_Qwen3-Embedding-8B/dair-ai_05_pca_embeddings_3d.svg",
+          "filename": "dair-ai_05_pca_embeddings_3d.svg",
+          "title": "dair ai / 05 Qwen Qwen3 Embedding 8B — dair ai 05 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/06-roberta-base/dair-ai_06_pca_embeddings_2d.html",
+          "filename": "dair-ai_06_pca_embeddings_2d.html",
+          "title": "dair ai / 06 roberta base — dair ai 06 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/06-roberta-base/dair-ai_06_pca_embeddings_2d.png",
+          "filename": "dair-ai_06_pca_embeddings_2d.png",
+          "title": "dair ai / 06 roberta base — dair ai 06 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/06-roberta-base/dair-ai_06_pca_embeddings_2d.svg",
+          "filename": "dair-ai_06_pca_embeddings_2d.svg",
+          "title": "dair ai / 06 roberta base — dair ai 06 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/06-roberta-base/dair-ai_06_pca_embeddings_3d.html",
+          "filename": "dair-ai_06_pca_embeddings_3d.html",
+          "title": "dair ai / 06 roberta base — dair ai 06 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/06-roberta-base/dair-ai_06_pca_embeddings_3d.png",
+          "filename": "dair-ai_06_pca_embeddings_3d.png",
+          "title": "dair ai / 06 roberta base — dair ai 06 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/06-roberta-base/dair-ai_06_pca_embeddings_3d.svg",
+          "filename": "dair-ai_06_pca_embeddings_3d.svg",
+          "title": "dair ai / 06 roberta base — dair ai 06 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/07-sentence-transformers_all-mpnet-base-v2/dair-ai_07_pca_embeddings_2d.html",
+          "filename": "dair-ai_07_pca_embeddings_2d.html",
+          "title": "dair ai / 07 sentence transformers all mpnet base v2 — dair ai 07 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/07-sentence-transformers_all-mpnet-base-v2/dair-ai_07_pca_embeddings_2d.png",
+          "filename": "dair-ai_07_pca_embeddings_2d.png",
+          "title": "dair ai / 07 sentence transformers all mpnet base v2 — dair ai 07 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/07-sentence-transformers_all-mpnet-base-v2/dair-ai_07_pca_embeddings_2d.svg",
+          "filename": "dair-ai_07_pca_embeddings_2d.svg",
+          "title": "dair ai / 07 sentence transformers all mpnet base v2 — dair ai 07 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/07-sentence-transformers_all-mpnet-base-v2/dair-ai_07_pca_embeddings_3d.html",
+          "filename": "dair-ai_07_pca_embeddings_3d.html",
+          "title": "dair ai / 07 sentence transformers all mpnet base v2 — dair ai 07 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/07-sentence-transformers_all-mpnet-base-v2/dair-ai_07_pca_embeddings_3d.png",
+          "filename": "dair-ai_07_pca_embeddings_3d.png",
+          "title": "dair ai / 07 sentence transformers all mpnet base v2 — dair ai 07 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/07-sentence-transformers_all-mpnet-base-v2/dair-ai_07_pca_embeddings_3d.svg",
+          "filename": "dair-ai_07_pca_embeddings_3d.svg",
+          "title": "dair ai / 07 sentence transformers all mpnet base v2 — dair ai 07 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/08-all-MiniLM-L6-v2/dair-ai_08_pca_embeddings_2d.html",
+          "filename": "dair-ai_08_pca_embeddings_2d.html",
+          "title": "dair ai / 08 all MiniLM L6 v2 — dair ai 08 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/08-all-MiniLM-L6-v2/dair-ai_08_pca_embeddings_2d.png",
+          "filename": "dair-ai_08_pca_embeddings_2d.png",
+          "title": "dair ai / 08 all MiniLM L6 v2 — dair ai 08 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/08-all-MiniLM-L6-v2/dair-ai_08_pca_embeddings_2d.svg",
+          "filename": "dair-ai_08_pca_embeddings_2d.svg",
+          "title": "dair ai / 08 all MiniLM L6 v2 — dair ai 08 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/08-all-MiniLM-L6-v2/dair-ai_08_pca_embeddings_3d.html",
+          "filename": "dair-ai_08_pca_embeddings_3d.html",
+          "title": "dair ai / 08 all MiniLM L6 v2 — dair ai 08 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "dair-ai/08-all-MiniLM-L6-v2/dair-ai_08_pca_embeddings_3d.png",
+          "filename": "dair-ai_08_pca_embeddings_3d.png",
+          "title": "dair ai / 08 all MiniLM L6 v2 — dair ai 08 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "dair-ai/08-all-MiniLM-L6-v2/dair-ai_08_pca_embeddings_3d.svg",
+          "filename": "dair-ai_08_pca_embeddings_3d.svg",
+          "title": "dair ai / 08 all MiniLM L6 v2 — dair ai 08 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/01-bert-base-uncased/go_emotions_6labels_01_pca_embeddings_2d.html",
+          "filename": "go_emotions_6labels_01_pca_embeddings_2d.html",
+          "title": "go emotions 6labels / 01 bert base uncased — go emotions 6labels 01 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/01-bert-base-uncased/go_emotions_6labels_01_pca_embeddings_2d.png",
+          "filename": "go_emotions_6labels_01_pca_embeddings_2d.png",
+          "title": "go emotions 6labels / 01 bert base uncased — go emotions 6labels 01 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/01-bert-base-uncased/go_emotions_6labels_01_pca_embeddings_2d.svg",
+          "filename": "go_emotions_6labels_01_pca_embeddings_2d.svg",
+          "title": "go emotions 6labels / 01 bert base uncased — go emotions 6labels 01 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/01-bert-base-uncased/go_emotions_6labels_01_pca_embeddings_3d.html",
+          "filename": "go_emotions_6labels_01_pca_embeddings_3d.html",
+          "title": "go emotions 6labels / 01 bert base uncased — go emotions 6labels 01 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/01-bert-base-uncased/go_emotions_6labels_01_pca_embeddings_3d.png",
+          "filename": "go_emotions_6labels_01_pca_embeddings_3d.png",
+          "title": "go emotions 6labels / 01 bert base uncased — go emotions 6labels 01 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/01-bert-base-uncased/go_emotions_6labels_01_pca_embeddings_3d.svg",
+          "filename": "go_emotions_6labels_01_pca_embeddings_3d.svg",
+          "title": "go emotions 6labels / 01 bert base uncased — go emotions 6labels 01 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/02-bert-base-uncased/go_emotions_6labels_02_pca_embeddings_2d.html",
+          "filename": "go_emotions_6labels_02_pca_embeddings_2d.html",
+          "title": "go emotions 6labels / 02 bert base uncased — go emotions 6labels 02 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/02-bert-base-uncased/go_emotions_6labels_02_pca_embeddings_2d.png",
+          "filename": "go_emotions_6labels_02_pca_embeddings_2d.png",
+          "title": "go emotions 6labels / 02 bert base uncased — go emotions 6labels 02 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/02-bert-base-uncased/go_emotions_6labels_02_pca_embeddings_2d.svg",
+          "filename": "go_emotions_6labels_02_pca_embeddings_2d.svg",
+          "title": "go emotions 6labels / 02 bert base uncased — go emotions 6labels 02 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/02-bert-base-uncased/go_emotions_6labels_02_pca_embeddings_3d.html",
+          "filename": "go_emotions_6labels_02_pca_embeddings_3d.html",
+          "title": "go emotions 6labels / 02 bert base uncased — go emotions 6labels 02 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/02-bert-base-uncased/go_emotions_6labels_02_pca_embeddings_3d.png",
+          "filename": "go_emotions_6labels_02_pca_embeddings_3d.png",
+          "title": "go emotions 6labels / 02 bert base uncased — go emotions 6labels 02 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/02-bert-base-uncased/go_emotions_6labels_02_pca_embeddings_3d.svg",
+          "filename": "go_emotions_6labels_02_pca_embeddings_3d.svg",
+          "title": "go emotions 6labels / 02 bert base uncased — go emotions 6labels 02 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/03-ibm-granite_granite-embedding-english-r2/go_emotions_6labels_03_pca_embeddings_2d.html",
+          "filename": "go_emotions_6labels_03_pca_embeddings_2d.html",
+          "title": "go emotions 6labels / 03 ibm granite granite embedding english r2 — go emotions 6labels 03 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/03-ibm-granite_granite-embedding-english-r2/go_emotions_6labels_03_pca_embeddings_2d.png",
+          "filename": "go_emotions_6labels_03_pca_embeddings_2d.png",
+          "title": "go emotions 6labels / 03 ibm granite granite embedding english r2 — go emotions 6labels 03 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/03-ibm-granite_granite-embedding-english-r2/go_emotions_6labels_03_pca_embeddings_2d.svg",
+          "filename": "go_emotions_6labels_03_pca_embeddings_2d.svg",
+          "title": "go emotions 6labels / 03 ibm granite granite embedding english r2 — go emotions 6labels 03 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/03-ibm-granite_granite-embedding-english-r2/go_emotions_6labels_03_pca_embeddings_3d.html",
+          "filename": "go_emotions_6labels_03_pca_embeddings_3d.html",
+          "title": "go emotions 6labels / 03 ibm granite granite embedding english r2 — go emotions 6labels 03 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/03-ibm-granite_granite-embedding-english-r2/go_emotions_6labels_03_pca_embeddings_3d.png",
+          "filename": "go_emotions_6labels_03_pca_embeddings_3d.png",
+          "title": "go emotions 6labels / 03 ibm granite granite embedding english r2 — go emotions 6labels 03 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/03-ibm-granite_granite-embedding-english-r2/go_emotions_6labels_03_pca_embeddings_3d.svg",
+          "filename": "go_emotions_6labels_03_pca_embeddings_3d.svg",
+          "title": "go emotions 6labels / 03 ibm granite granite embedding english r2 — go emotions 6labels 03 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/04-inaai_jina-embeddings-v2-base-en/go_emotions_6labels_04_pca_embeddings_2d.html",
+          "filename": "go_emotions_6labels_04_pca_embeddings_2d.html",
+          "title": "go emotions 6labels / 04 inaai jina embeddings v2 base en — go emotions 6labels 04 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/04-inaai_jina-embeddings-v2-base-en/go_emotions_6labels_04_pca_embeddings_2d.png",
+          "filename": "go_emotions_6labels_04_pca_embeddings_2d.png",
+          "title": "go emotions 6labels / 04 inaai jina embeddings v2 base en — go emotions 6labels 04 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/04-inaai_jina-embeddings-v2-base-en/go_emotions_6labels_04_pca_embeddings_2d.svg",
+          "filename": "go_emotions_6labels_04_pca_embeddings_2d.svg",
+          "title": "go emotions 6labels / 04 inaai jina embeddings v2 base en — go emotions 6labels 04 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/04-inaai_jina-embeddings-v2-base-en/go_emotions_6labels_04_pca_embeddings_3d.html",
+          "filename": "go_emotions_6labels_04_pca_embeddings_3d.html",
+          "title": "go emotions 6labels / 04 inaai jina embeddings v2 base en — go emotions 6labels 04 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/04-inaai_jina-embeddings-v2-base-en/go_emotions_6labels_04_pca_embeddings_3d.png",
+          "filename": "go_emotions_6labels_04_pca_embeddings_3d.png",
+          "title": "go emotions 6labels / 04 inaai jina embeddings v2 base en — go emotions 6labels 04 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/04-inaai_jina-embeddings-v2-base-en/go_emotions_6labels_04_pca_embeddings_3d.svg",
+          "filename": "go_emotions_6labels_04_pca_embeddings_3d.svg",
+          "title": "go emotions 6labels / 04 inaai jina embeddings v2 base en — go emotions 6labels 04 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/05-Qwen_Qwen3-Embedding-8B/go_emotions_6labels_05_pca_embeddings_2d.html",
+          "filename": "go_emotions_6labels_05_pca_embeddings_2d.html",
+          "title": "go emotions 6labels / 05 Qwen Qwen3 Embedding 8B — go emotions 6labels 05 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/05-Qwen_Qwen3-Embedding-8B/go_emotions_6labels_05_pca_embeddings_2d.png",
+          "filename": "go_emotions_6labels_05_pca_embeddings_2d.png",
+          "title": "go emotions 6labels / 05 Qwen Qwen3 Embedding 8B — go emotions 6labels 05 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/05-Qwen_Qwen3-Embedding-8B/go_emotions_6labels_05_pca_embeddings_2d.svg",
+          "filename": "go_emotions_6labels_05_pca_embeddings_2d.svg",
+          "title": "go emotions 6labels / 05 Qwen Qwen3 Embedding 8B — go emotions 6labels 05 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/05-Qwen_Qwen3-Embedding-8B/go_emotions_6labels_05_pca_embeddings_3d.html",
+          "filename": "go_emotions_6labels_05_pca_embeddings_3d.html",
+          "title": "go emotions 6labels / 05 Qwen Qwen3 Embedding 8B — go emotions 6labels 05 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/05-Qwen_Qwen3-Embedding-8B/go_emotions_6labels_05_pca_embeddings_3d.png",
+          "filename": "go_emotions_6labels_05_pca_embeddings_3d.png",
+          "title": "go emotions 6labels / 05 Qwen Qwen3 Embedding 8B — go emotions 6labels 05 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/05-Qwen_Qwen3-Embedding-8B/go_emotions_6labels_05_pca_embeddings_3d.svg",
+          "filename": "go_emotions_6labels_05_pca_embeddings_3d.svg",
+          "title": "go emotions 6labels / 05 Qwen Qwen3 Embedding 8B — go emotions 6labels 05 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/06-roberta-base/go_emotions_6labels_06_pca_embeddings_2d.html",
+          "filename": "go_emotions_6labels_06_pca_embeddings_2d.html",
+          "title": "go emotions 6labels / 06 roberta base — go emotions 6labels 06 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/06-roberta-base/go_emotions_6labels_06_pca_embeddings_2d.png",
+          "filename": "go_emotions_6labels_06_pca_embeddings_2d.png",
+          "title": "go emotions 6labels / 06 roberta base — go emotions 6labels 06 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/06-roberta-base/go_emotions_6labels_06_pca_embeddings_2d.svg",
+          "filename": "go_emotions_6labels_06_pca_embeddings_2d.svg",
+          "title": "go emotions 6labels / 06 roberta base — go emotions 6labels 06 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/06-roberta-base/go_emotions_6labels_06_pca_embeddings_3d.html",
+          "filename": "go_emotions_6labels_06_pca_embeddings_3d.html",
+          "title": "go emotions 6labels / 06 roberta base — go emotions 6labels 06 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/06-roberta-base/go_emotions_6labels_06_pca_embeddings_3d.png",
+          "filename": "go_emotions_6labels_06_pca_embeddings_3d.png",
+          "title": "go emotions 6labels / 06 roberta base — go emotions 6labels 06 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/06-roberta-base/go_emotions_6labels_06_pca_embeddings_3d.svg",
+          "filename": "go_emotions_6labels_06_pca_embeddings_3d.svg",
+          "title": "go emotions 6labels / 06 roberta base — go emotions 6labels 06 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/07-sentence-transformers_all-mpnet-base-v2/go_emotions_6labels_07_pca_embeddings_2d.html",
+          "filename": "go_emotions_6labels_07_pca_embeddings_2d.html",
+          "title": "go emotions 6labels / 07 sentence transformers all mpnet base v2 — go emotions 6labels 07 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/07-sentence-transformers_all-mpnet-base-v2/go_emotions_6labels_07_pca_embeddings_2d.png",
+          "filename": "go_emotions_6labels_07_pca_embeddings_2d.png",
+          "title": "go emotions 6labels / 07 sentence transformers all mpnet base v2 — go emotions 6labels 07 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/07-sentence-transformers_all-mpnet-base-v2/go_emotions_6labels_07_pca_embeddings_2d.svg",
+          "filename": "go_emotions_6labels_07_pca_embeddings_2d.svg",
+          "title": "go emotions 6labels / 07 sentence transformers all mpnet base v2 — go emotions 6labels 07 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/07-sentence-transformers_all-mpnet-base-v2/go_emotions_6labels_07_pca_embeddings_3d.html",
+          "filename": "go_emotions_6labels_07_pca_embeddings_3d.html",
+          "title": "go emotions 6labels / 07 sentence transformers all mpnet base v2 — go emotions 6labels 07 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/07-sentence-transformers_all-mpnet-base-v2/go_emotions_6labels_07_pca_embeddings_3d.png",
+          "filename": "go_emotions_6labels_07_pca_embeddings_3d.png",
+          "title": "go emotions 6labels / 07 sentence transformers all mpnet base v2 — go emotions 6labels 07 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/07-sentence-transformers_all-mpnet-base-v2/go_emotions_6labels_07_pca_embeddings_3d.svg",
+          "filename": "go_emotions_6labels_07_pca_embeddings_3d.svg",
+          "title": "go emotions 6labels / 07 sentence transformers all mpnet base v2 — go emotions 6labels 07 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/08-all-MiniLM-L6-v2/go_emotions_6labels_08_pca_embeddings_2d.html",
+          "filename": "go_emotions_6labels_08_pca_embeddings_2d.html",
+          "title": "go emotions 6labels / 08 all MiniLM L6 v2 — go emotions 6labels 08 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/08-all-MiniLM-L6-v2/go_emotions_6labels_08_pca_embeddings_2d.png",
+          "filename": "go_emotions_6labels_08_pca_embeddings_2d.png",
+          "title": "go emotions 6labels / 08 all MiniLM L6 v2 — go emotions 6labels 08 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/08-all-MiniLM-L6-v2/go_emotions_6labels_08_pca_embeddings_2d.svg",
+          "filename": "go_emotions_6labels_08_pca_embeddings_2d.svg",
+          "title": "go emotions 6labels / 08 all MiniLM L6 v2 — go emotions 6labels 08 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/08-all-MiniLM-L6-v2/go_emotions_6labels_08_pca_embeddings_3d.html",
+          "filename": "go_emotions_6labels_08_pca_embeddings_3d.html",
+          "title": "go emotions 6labels / 08 all MiniLM L6 v2 — go emotions 6labels 08 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_6labels/08-all-MiniLM-L6-v2/go_emotions_6labels_08_pca_embeddings_3d.png",
+          "filename": "go_emotions_6labels_08_pca_embeddings_3d.png",
+          "title": "go emotions 6labels / 08 all MiniLM L6 v2 — go emotions 6labels 08 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_6labels/08-all-MiniLM-L6-v2/go_emotions_6labels_08_pca_embeddings_3d.svg",
+          "filename": "go_emotions_6labels_08_pca_embeddings_3d.svg",
+          "title": "go emotions 6labels / 08 all MiniLM L6 v2 — go emotions 6labels 08 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/01-bert-base-uncased/go_emotions_single_label_01_pca_embeddings_2d.html",
+          "filename": "go_emotions_single_label_01_pca_embeddings_2d.html",
+          "title": "go emotions single label / 01 bert base uncased — go emotions single label 01 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/01-bert-base-uncased/go_emotions_single_label_01_pca_embeddings_2d.png",
+          "filename": "go_emotions_single_label_01_pca_embeddings_2d.png",
+          "title": "go emotions single label / 01 bert base uncased — go emotions single label 01 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/01-bert-base-uncased/go_emotions_single_label_01_pca_embeddings_2d.svg",
+          "filename": "go_emotions_single_label_01_pca_embeddings_2d.svg",
+          "title": "go emotions single label / 01 bert base uncased — go emotions single label 01 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/01-bert-base-uncased/go_emotions_single_label_01_pca_embeddings_3d.html",
+          "filename": "go_emotions_single_label_01_pca_embeddings_3d.html",
+          "title": "go emotions single label / 01 bert base uncased — go emotions single label 01 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/01-bert-base-uncased/go_emotions_single_label_01_pca_embeddings_3d.png",
+          "filename": "go_emotions_single_label_01_pca_embeddings_3d.png",
+          "title": "go emotions single label / 01 bert base uncased — go emotions single label 01 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/01-bert-base-uncased/go_emotions_single_label_01_pca_embeddings_3d.svg",
+          "filename": "go_emotions_single_label_01_pca_embeddings_3d.svg",
+          "title": "go emotions single label / 01 bert base uncased — go emotions single label 01 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/02-bert-base-uncased/go_emotions_single_label_02_pca_embeddings_2d.html",
+          "filename": "go_emotions_single_label_02_pca_embeddings_2d.html",
+          "title": "go emotions single label / 02 bert base uncased — go emotions single label 02 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/02-bert-base-uncased/go_emotions_single_label_02_pca_embeddings_2d.png",
+          "filename": "go_emotions_single_label_02_pca_embeddings_2d.png",
+          "title": "go emotions single label / 02 bert base uncased — go emotions single label 02 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/02-bert-base-uncased/go_emotions_single_label_02_pca_embeddings_2d.svg",
+          "filename": "go_emotions_single_label_02_pca_embeddings_2d.svg",
+          "title": "go emotions single label / 02 bert base uncased — go emotions single label 02 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/02-bert-base-uncased/go_emotions_single_label_02_pca_embeddings_3d.html",
+          "filename": "go_emotions_single_label_02_pca_embeddings_3d.html",
+          "title": "go emotions single label / 02 bert base uncased — go emotions single label 02 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/02-bert-base-uncased/go_emotions_single_label_02_pca_embeddings_3d.png",
+          "filename": "go_emotions_single_label_02_pca_embeddings_3d.png",
+          "title": "go emotions single label / 02 bert base uncased — go emotions single label 02 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/02-bert-base-uncased/go_emotions_single_label_02_pca_embeddings_3d.svg",
+          "filename": "go_emotions_single_label_02_pca_embeddings_3d.svg",
+          "title": "go emotions single label / 02 bert base uncased — go emotions single label 02 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/03-ibm-granite_granite-embedding-english-r2/go_emotions_single_label_03_pca_embeddings_2d.html",
+          "filename": "go_emotions_single_label_03_pca_embeddings_2d.html",
+          "title": "go emotions single label / 03 ibm granite granite embedding english r2 — go emotions single label 03 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/03-ibm-granite_granite-embedding-english-r2/go_emotions_single_label_03_pca_embeddings_2d.png",
+          "filename": "go_emotions_single_label_03_pca_embeddings_2d.png",
+          "title": "go emotions single label / 03 ibm granite granite embedding english r2 — go emotions single label 03 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/03-ibm-granite_granite-embedding-english-r2/go_emotions_single_label_03_pca_embeddings_2d.svg",
+          "filename": "go_emotions_single_label_03_pca_embeddings_2d.svg",
+          "title": "go emotions single label / 03 ibm granite granite embedding english r2 — go emotions single label 03 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/03-ibm-granite_granite-embedding-english-r2/go_emotions_single_label_03_pca_embeddings_3d.html",
+          "filename": "go_emotions_single_label_03_pca_embeddings_3d.html",
+          "title": "go emotions single label / 03 ibm granite granite embedding english r2 — go emotions single label 03 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/03-ibm-granite_granite-embedding-english-r2/go_emotions_single_label_03_pca_embeddings_3d.png",
+          "filename": "go_emotions_single_label_03_pca_embeddings_3d.png",
+          "title": "go emotions single label / 03 ibm granite granite embedding english r2 — go emotions single label 03 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/03-ibm-granite_granite-embedding-english-r2/go_emotions_single_label_03_pca_embeddings_3d.svg",
+          "filename": "go_emotions_single_label_03_pca_embeddings_3d.svg",
+          "title": "go emotions single label / 03 ibm granite granite embedding english r2 — go emotions single label 03 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/04-inaai_jina-embeddings-v2-base-en/go_emotions_single_label_04_pca_embeddings_2d.html",
+          "filename": "go_emotions_single_label_04_pca_embeddings_2d.html",
+          "title": "go emotions single label / 04 inaai jina embeddings v2 base en — go emotions single label 04 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/04-inaai_jina-embeddings-v2-base-en/go_emotions_single_label_04_pca_embeddings_2d.png",
+          "filename": "go_emotions_single_label_04_pca_embeddings_2d.png",
+          "title": "go emotions single label / 04 inaai jina embeddings v2 base en — go emotions single label 04 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/04-inaai_jina-embeddings-v2-base-en/go_emotions_single_label_04_pca_embeddings_2d.svg",
+          "filename": "go_emotions_single_label_04_pca_embeddings_2d.svg",
+          "title": "go emotions single label / 04 inaai jina embeddings v2 base en — go emotions single label 04 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/04-inaai_jina-embeddings-v2-base-en/go_emotions_single_label_04_pca_embeddings_3d.html",
+          "filename": "go_emotions_single_label_04_pca_embeddings_3d.html",
+          "title": "go emotions single label / 04 inaai jina embeddings v2 base en — go emotions single label 04 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/04-inaai_jina-embeddings-v2-base-en/go_emotions_single_label_04_pca_embeddings_3d.png",
+          "filename": "go_emotions_single_label_04_pca_embeddings_3d.png",
+          "title": "go emotions single label / 04 inaai jina embeddings v2 base en — go emotions single label 04 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/04-inaai_jina-embeddings-v2-base-en/go_emotions_single_label_04_pca_embeddings_3d.svg",
+          "filename": "go_emotions_single_label_04_pca_embeddings_3d.svg",
+          "title": "go emotions single label / 04 inaai jina embeddings v2 base en — go emotions single label 04 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/05-Qwen_Qwen3-Embedding-8B/go_emotions_single_label_05_pca_embeddings_2d.html",
+          "filename": "go_emotions_single_label_05_pca_embeddings_2d.html",
+          "title": "go emotions single label / 05 Qwen Qwen3 Embedding 8B — go emotions single label 05 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/05-Qwen_Qwen3-Embedding-8B/go_emotions_single_label_05_pca_embeddings_2d.png",
+          "filename": "go_emotions_single_label_05_pca_embeddings_2d.png",
+          "title": "go emotions single label / 05 Qwen Qwen3 Embedding 8B — go emotions single label 05 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/05-Qwen_Qwen3-Embedding-8B/go_emotions_single_label_05_pca_embeddings_2d.svg",
+          "filename": "go_emotions_single_label_05_pca_embeddings_2d.svg",
+          "title": "go emotions single label / 05 Qwen Qwen3 Embedding 8B — go emotions single label 05 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/05-Qwen_Qwen3-Embedding-8B/go_emotions_single_label_05_pca_embeddings_3d.html",
+          "filename": "go_emotions_single_label_05_pca_embeddings_3d.html",
+          "title": "go emotions single label / 05 Qwen Qwen3 Embedding 8B — go emotions single label 05 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/05-Qwen_Qwen3-Embedding-8B/go_emotions_single_label_05_pca_embeddings_3d.png",
+          "filename": "go_emotions_single_label_05_pca_embeddings_3d.png",
+          "title": "go emotions single label / 05 Qwen Qwen3 Embedding 8B — go emotions single label 05 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/05-Qwen_Qwen3-Embedding-8B/go_emotions_single_label_05_pca_embeddings_3d.svg",
+          "filename": "go_emotions_single_label_05_pca_embeddings_3d.svg",
+          "title": "go emotions single label / 05 Qwen Qwen3 Embedding 8B — go emotions single label 05 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/06-roberta-base/go_emotions_single_label_06_pca_embeddings_2d.html",
+          "filename": "go_emotions_single_label_06_pca_embeddings_2d.html",
+          "title": "go emotions single label / 06 roberta base — go emotions single label 06 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/06-roberta-base/go_emotions_single_label_06_pca_embeddings_2d.png",
+          "filename": "go_emotions_single_label_06_pca_embeddings_2d.png",
+          "title": "go emotions single label / 06 roberta base — go emotions single label 06 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/06-roberta-base/go_emotions_single_label_06_pca_embeddings_2d.svg",
+          "filename": "go_emotions_single_label_06_pca_embeddings_2d.svg",
+          "title": "go emotions single label / 06 roberta base — go emotions single label 06 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/06-roberta-base/go_emotions_single_label_06_pca_embeddings_3d.html",
+          "filename": "go_emotions_single_label_06_pca_embeddings_3d.html",
+          "title": "go emotions single label / 06 roberta base — go emotions single label 06 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/06-roberta-base/go_emotions_single_label_06_pca_embeddings_3d.png",
+          "filename": "go_emotions_single_label_06_pca_embeddings_3d.png",
+          "title": "go emotions single label / 06 roberta base — go emotions single label 06 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/06-roberta-base/go_emotions_single_label_06_pca_embeddings_3d.svg",
+          "filename": "go_emotions_single_label_06_pca_embeddings_3d.svg",
+          "title": "go emotions single label / 06 roberta base — go emotions single label 06 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/07-sentence-transformers_all-mpnet-base-v2/go_emotions_single_label_07_pca_embeddings_2d.html",
+          "filename": "go_emotions_single_label_07_pca_embeddings_2d.html",
+          "title": "go emotions single label / 07 sentence transformers all mpnet base v2 — go emotions single label 07 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/07-sentence-transformers_all-mpnet-base-v2/go_emotions_single_label_07_pca_embeddings_2d.png",
+          "filename": "go_emotions_single_label_07_pca_embeddings_2d.png",
+          "title": "go emotions single label / 07 sentence transformers all mpnet base v2 — go emotions single label 07 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/07-sentence-transformers_all-mpnet-base-v2/go_emotions_single_label_07_pca_embeddings_2d.svg",
+          "filename": "go_emotions_single_label_07_pca_embeddings_2d.svg",
+          "title": "go emotions single label / 07 sentence transformers all mpnet base v2 — go emotions single label 07 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/07-sentence-transformers_all-mpnet-base-v2/go_emotions_single_label_07_pca_embeddings_3d.html",
+          "filename": "go_emotions_single_label_07_pca_embeddings_3d.html",
+          "title": "go emotions single label / 07 sentence transformers all mpnet base v2 — go emotions single label 07 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/07-sentence-transformers_all-mpnet-base-v2/go_emotions_single_label_07_pca_embeddings_3d.png",
+          "filename": "go_emotions_single_label_07_pca_embeddings_3d.png",
+          "title": "go emotions single label / 07 sentence transformers all mpnet base v2 — go emotions single label 07 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/07-sentence-transformers_all-mpnet-base-v2/go_emotions_single_label_07_pca_embeddings_3d.svg",
+          "filename": "go_emotions_single_label_07_pca_embeddings_3d.svg",
+          "title": "go emotions single label / 07 sentence transformers all mpnet base v2 — go emotions single label 07 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/08-all-MiniLM-L6-v2/go_emotions_single_label_08_pca_embeddings_2d.html",
+          "filename": "go_emotions_single_label_08_pca_embeddings_2d.html",
+          "title": "go emotions single label / 08 all MiniLM L6 v2 — go emotions single label 08 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/08-all-MiniLM-L6-v2/go_emotions_single_label_08_pca_embeddings_2d.png",
+          "filename": "go_emotions_single_label_08_pca_embeddings_2d.png",
+          "title": "go emotions single label / 08 all MiniLM L6 v2 — go emotions single label 08 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/08-all-MiniLM-L6-v2/go_emotions_single_label_08_pca_embeddings_2d.svg",
+          "filename": "go_emotions_single_label_08_pca_embeddings_2d.svg",
+          "title": "go emotions single label / 08 all MiniLM L6 v2 — go emotions single label 08 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/08-all-MiniLM-L6-v2/go_emotions_single_label_08_pca_embeddings_3d.html",
+          "filename": "go_emotions_single_label_08_pca_embeddings_3d.html",
+          "title": "go emotions single label / 08 all MiniLM L6 v2 — go emotions single label 08 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions_single_label/08-all-MiniLM-L6-v2/go_emotions_single_label_08_pca_embeddings_3d.png",
+          "filename": "go_emotions_single_label_08_pca_embeddings_3d.png",
+          "title": "go emotions single label / 08 all MiniLM L6 v2 — go emotions single label 08 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions_single_label/08-all-MiniLM-L6-v2/go_emotions_single_label_08_pca_embeddings_3d.svg",
+          "filename": "go_emotions_single_label_08_pca_embeddings_3d.svg",
+          "title": "go emotions single label / 08 all MiniLM L6 v2 — go emotions single label 08 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/01-bert-base-uncased/go_emotions_01_pca_embeddings_2d.html",
+          "filename": "go_emotions_01_pca_embeddings_2d.html",
+          "title": "go emotions / 01 bert base uncased — go emotions 01 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/01-bert-base-uncased/go_emotions_01_pca_embeddings_2d.png",
+          "filename": "go_emotions_01_pca_embeddings_2d.png",
+          "title": "go emotions / 01 bert base uncased — go emotions 01 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/01-bert-base-uncased/go_emotions_01_pca_embeddings_2d.svg",
+          "filename": "go_emotions_01_pca_embeddings_2d.svg",
+          "title": "go emotions / 01 bert base uncased — go emotions 01 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/01-bert-base-uncased/go_emotions_01_pca_embeddings_3d.html",
+          "filename": "go_emotions_01_pca_embeddings_3d.html",
+          "title": "go emotions / 01 bert base uncased — go emotions 01 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/01-bert-base-uncased/go_emotions_01_pca_embeddings_3d.png",
+          "filename": "go_emotions_01_pca_embeddings_3d.png",
+          "title": "go emotions / 01 bert base uncased — go emotions 01 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/01-bert-base-uncased/go_emotions_01_pca_embeddings_3d.svg",
+          "filename": "go_emotions_01_pca_embeddings_3d.svg",
+          "title": "go emotions / 01 bert base uncased — go emotions 01 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/02-bert-base-uncased/go_emotions_02_pca_embeddings_2d.html",
+          "filename": "go_emotions_02_pca_embeddings_2d.html",
+          "title": "go emotions / 02 bert base uncased — go emotions 02 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/02-bert-base-uncased/go_emotions_02_pca_embeddings_2d.png",
+          "filename": "go_emotions_02_pca_embeddings_2d.png",
+          "title": "go emotions / 02 bert base uncased — go emotions 02 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/02-bert-base-uncased/go_emotions_02_pca_embeddings_2d.svg",
+          "filename": "go_emotions_02_pca_embeddings_2d.svg",
+          "title": "go emotions / 02 bert base uncased — go emotions 02 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/02-bert-base-uncased/go_emotions_02_pca_embeddings_3d.html",
+          "filename": "go_emotions_02_pca_embeddings_3d.html",
+          "title": "go emotions / 02 bert base uncased — go emotions 02 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/02-bert-base-uncased/go_emotions_02_pca_embeddings_3d.png",
+          "filename": "go_emotions_02_pca_embeddings_3d.png",
+          "title": "go emotions / 02 bert base uncased — go emotions 02 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/02-bert-base-uncased/go_emotions_02_pca_embeddings_3d.svg",
+          "filename": "go_emotions_02_pca_embeddings_3d.svg",
+          "title": "go emotions / 02 bert base uncased — go emotions 02 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/03-ibm-granite_granite-embedding-english-r2/go_emotions_03_pca_embeddings_2d.html",
+          "filename": "go_emotions_03_pca_embeddings_2d.html",
+          "title": "go emotions / 03 ibm granite granite embedding english r2 — go emotions 03 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/03-ibm-granite_granite-embedding-english-r2/go_emotions_03_pca_embeddings_2d.png",
+          "filename": "go_emotions_03_pca_embeddings_2d.png",
+          "title": "go emotions / 03 ibm granite granite embedding english r2 — go emotions 03 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/03-ibm-granite_granite-embedding-english-r2/go_emotions_03_pca_embeddings_2d.svg",
+          "filename": "go_emotions_03_pca_embeddings_2d.svg",
+          "title": "go emotions / 03 ibm granite granite embedding english r2 — go emotions 03 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/03-ibm-granite_granite-embedding-english-r2/go_emotions_03_pca_embeddings_3d.html",
+          "filename": "go_emotions_03_pca_embeddings_3d.html",
+          "title": "go emotions / 03 ibm granite granite embedding english r2 — go emotions 03 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/03-ibm-granite_granite-embedding-english-r2/go_emotions_03_pca_embeddings_3d.png",
+          "filename": "go_emotions_03_pca_embeddings_3d.png",
+          "title": "go emotions / 03 ibm granite granite embedding english r2 — go emotions 03 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/03-ibm-granite_granite-embedding-english-r2/go_emotions_03_pca_embeddings_3d.svg",
+          "filename": "go_emotions_03_pca_embeddings_3d.svg",
+          "title": "go emotions / 03 ibm granite granite embedding english r2 — go emotions 03 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/04-inaai_jina-embeddings-v2-base-en/go_emotions_04_pca_embeddings_2d.html",
+          "filename": "go_emotions_04_pca_embeddings_2d.html",
+          "title": "go emotions / 04 inaai jina embeddings v2 base en — go emotions 04 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/04-inaai_jina-embeddings-v2-base-en/go_emotions_04_pca_embeddings_2d.png",
+          "filename": "go_emotions_04_pca_embeddings_2d.png",
+          "title": "go emotions / 04 inaai jina embeddings v2 base en — go emotions 04 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/04-inaai_jina-embeddings-v2-base-en/go_emotions_04_pca_embeddings_2d.svg",
+          "filename": "go_emotions_04_pca_embeddings_2d.svg",
+          "title": "go emotions / 04 inaai jina embeddings v2 base en — go emotions 04 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/04-inaai_jina-embeddings-v2-base-en/go_emotions_04_pca_embeddings_3d.html",
+          "filename": "go_emotions_04_pca_embeddings_3d.html",
+          "title": "go emotions / 04 inaai jina embeddings v2 base en — go emotions 04 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/04-inaai_jina-embeddings-v2-base-en/go_emotions_04_pca_embeddings_3d.png",
+          "filename": "go_emotions_04_pca_embeddings_3d.png",
+          "title": "go emotions / 04 inaai jina embeddings v2 base en — go emotions 04 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/04-inaai_jina-embeddings-v2-base-en/go_emotions_04_pca_embeddings_3d.svg",
+          "filename": "go_emotions_04_pca_embeddings_3d.svg",
+          "title": "go emotions / 04 inaai jina embeddings v2 base en — go emotions 04 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/05-Qwen_Qwen3-Embedding-8B/go_emotions_05_pca_embeddings_2d.html",
+          "filename": "go_emotions_05_pca_embeddings_2d.html",
+          "title": "go emotions / 05 Qwen Qwen3 Embedding 8B — go emotions 05 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/05-Qwen_Qwen3-Embedding-8B/go_emotions_05_pca_embeddings_2d.png",
+          "filename": "go_emotions_05_pca_embeddings_2d.png",
+          "title": "go emotions / 05 Qwen Qwen3 Embedding 8B — go emotions 05 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/05-Qwen_Qwen3-Embedding-8B/go_emotions_05_pca_embeddings_2d.svg",
+          "filename": "go_emotions_05_pca_embeddings_2d.svg",
+          "title": "go emotions / 05 Qwen Qwen3 Embedding 8B — go emotions 05 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/05-Qwen_Qwen3-Embedding-8B/go_emotions_05_pca_embeddings_3d.html",
+          "filename": "go_emotions_05_pca_embeddings_3d.html",
+          "title": "go emotions / 05 Qwen Qwen3 Embedding 8B — go emotions 05 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/05-Qwen_Qwen3-Embedding-8B/go_emotions_05_pca_embeddings_3d.png",
+          "filename": "go_emotions_05_pca_embeddings_3d.png",
+          "title": "go emotions / 05 Qwen Qwen3 Embedding 8B — go emotions 05 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/05-Qwen_Qwen3-Embedding-8B/go_emotions_05_pca_embeddings_3d.svg",
+          "filename": "go_emotions_05_pca_embeddings_3d.svg",
+          "title": "go emotions / 05 Qwen Qwen3 Embedding 8B — go emotions 05 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/06-roberta-base/go_emotions_06_pca_embeddings_2d.html",
+          "filename": "go_emotions_06_pca_embeddings_2d.html",
+          "title": "go emotions / 06 roberta base — go emotions 06 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/06-roberta-base/go_emotions_06_pca_embeddings_2d.png",
+          "filename": "go_emotions_06_pca_embeddings_2d.png",
+          "title": "go emotions / 06 roberta base — go emotions 06 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/06-roberta-base/go_emotions_06_pca_embeddings_2d.svg",
+          "filename": "go_emotions_06_pca_embeddings_2d.svg",
+          "title": "go emotions / 06 roberta base — go emotions 06 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/06-roberta-base/go_emotions_06_pca_embeddings_3d.html",
+          "filename": "go_emotions_06_pca_embeddings_3d.html",
+          "title": "go emotions / 06 roberta base — go emotions 06 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/06-roberta-base/go_emotions_06_pca_embeddings_3d.png",
+          "filename": "go_emotions_06_pca_embeddings_3d.png",
+          "title": "go emotions / 06 roberta base — go emotions 06 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/06-roberta-base/go_emotions_06_pca_embeddings_3d.svg",
+          "filename": "go_emotions_06_pca_embeddings_3d.svg",
+          "title": "go emotions / 06 roberta base — go emotions 06 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/07-sentence-transformers_all-mpnet-base-v2/go_emotions_07_pca_embeddings_2d.html",
+          "filename": "go_emotions_07_pca_embeddings_2d.html",
+          "title": "go emotions / 07 sentence transformers all mpnet base v2 — go emotions 07 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/07-sentence-transformers_all-mpnet-base-v2/go_emotions_07_pca_embeddings_2d.png",
+          "filename": "go_emotions_07_pca_embeddings_2d.png",
+          "title": "go emotions / 07 sentence transformers all mpnet base v2 — go emotions 07 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/07-sentence-transformers_all-mpnet-base-v2/go_emotions_07_pca_embeddings_2d.svg",
+          "filename": "go_emotions_07_pca_embeddings_2d.svg",
+          "title": "go emotions / 07 sentence transformers all mpnet base v2 — go emotions 07 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/07-sentence-transformers_all-mpnet-base-v2/go_emotions_07_pca_embeddings_3d.html",
+          "filename": "go_emotions_07_pca_embeddings_3d.html",
+          "title": "go emotions / 07 sentence transformers all mpnet base v2 — go emotions 07 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/07-sentence-transformers_all-mpnet-base-v2/go_emotions_07_pca_embeddings_3d.png",
+          "filename": "go_emotions_07_pca_embeddings_3d.png",
+          "title": "go emotions / 07 sentence transformers all mpnet base v2 — go emotions 07 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/07-sentence-transformers_all-mpnet-base-v2/go_emotions_07_pca_embeddings_3d.svg",
+          "filename": "go_emotions_07_pca_embeddings_3d.svg",
+          "title": "go emotions / 07 sentence transformers all mpnet base v2 — go emotions 07 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/08-all-MiniLM-L6-v2/go_emotions_08_pca_embeddings_2d.html",
+          "filename": "go_emotions_08_pca_embeddings_2d.html",
+          "title": "go emotions / 08 all MiniLM L6 v2 — go emotions 08 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/08-all-MiniLM-L6-v2/go_emotions_08_pca_embeddings_2d.png",
+          "filename": "go_emotions_08_pca_embeddings_2d.png",
+          "title": "go emotions / 08 all MiniLM L6 v2 — go emotions 08 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/08-all-MiniLM-L6-v2/go_emotions_08_pca_embeddings_2d.svg",
+          "filename": "go_emotions_08_pca_embeddings_2d.svg",
+          "title": "go emotions / 08 all MiniLM L6 v2 — go emotions 08 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/08-all-MiniLM-L6-v2/go_emotions_08_pca_embeddings_3d.html",
+          "filename": "go_emotions_08_pca_embeddings_3d.html",
+          "title": "go emotions / 08 all MiniLM L6 v2 — go emotions 08 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "go_emotions/08-all-MiniLM-L6-v2/go_emotions_08_pca_embeddings_3d.png",
+          "filename": "go_emotions_08_pca_embeddings_3d.png",
+          "title": "go emotions / 08 all MiniLM L6 v2 — go emotions 08 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "go_emotions/08-all-MiniLM-L6-v2/go_emotions_08_pca_embeddings_3d.svg",
+          "filename": "go_emotions_08_pca_embeddings_3d.svg",
+          "title": "go emotions / 08 all MiniLM L6 v2 — go emotions 08 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/01-bert-base-uncased/twenty_newsgroups_01_pca_embeddings_2d.html",
+          "filename": "twenty_newsgroups_01_pca_embeddings_2d.html",
+          "title": "twenty newsgroups / 01 bert base uncased — twenty newsgroups 01 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/01-bert-base-uncased/twenty_newsgroups_01_pca_embeddings_2d.png",
+          "filename": "twenty_newsgroups_01_pca_embeddings_2d.png",
+          "title": "twenty newsgroups / 01 bert base uncased — twenty newsgroups 01 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/01-bert-base-uncased/twenty_newsgroups_01_pca_embeddings_2d.svg",
+          "filename": "twenty_newsgroups_01_pca_embeddings_2d.svg",
+          "title": "twenty newsgroups / 01 bert base uncased — twenty newsgroups 01 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/01-bert-base-uncased/twenty_newsgroups_01_pca_embeddings_3d.html",
+          "filename": "twenty_newsgroups_01_pca_embeddings_3d.html",
+          "title": "twenty newsgroups / 01 bert base uncased — twenty newsgroups 01 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/01-bert-base-uncased/twenty_newsgroups_01_pca_embeddings_3d.png",
+          "filename": "twenty_newsgroups_01_pca_embeddings_3d.png",
+          "title": "twenty newsgroups / 01 bert base uncased — twenty newsgroups 01 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/01-bert-base-uncased/twenty_newsgroups_01_pca_embeddings_3d.svg",
+          "filename": "twenty_newsgroups_01_pca_embeddings_3d.svg",
+          "title": "twenty newsgroups / 01 bert base uncased — twenty newsgroups 01 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/02-bert-base-uncased/twenty_newsgroups_02_pca_embeddings_2d.html",
+          "filename": "twenty_newsgroups_02_pca_embeddings_2d.html",
+          "title": "twenty newsgroups / 02 bert base uncased — twenty newsgroups 02 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/02-bert-base-uncased/twenty_newsgroups_02_pca_embeddings_2d.png",
+          "filename": "twenty_newsgroups_02_pca_embeddings_2d.png",
+          "title": "twenty newsgroups / 02 bert base uncased — twenty newsgroups 02 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/02-bert-base-uncased/twenty_newsgroups_02_pca_embeddings_2d.svg",
+          "filename": "twenty_newsgroups_02_pca_embeddings_2d.svg",
+          "title": "twenty newsgroups / 02 bert base uncased — twenty newsgroups 02 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/02-bert-base-uncased/twenty_newsgroups_02_pca_embeddings_3d.html",
+          "filename": "twenty_newsgroups_02_pca_embeddings_3d.html",
+          "title": "twenty newsgroups / 02 bert base uncased — twenty newsgroups 02 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/02-bert-base-uncased/twenty_newsgroups_02_pca_embeddings_3d.png",
+          "filename": "twenty_newsgroups_02_pca_embeddings_3d.png",
+          "title": "twenty newsgroups / 02 bert base uncased — twenty newsgroups 02 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/02-bert-base-uncased/twenty_newsgroups_02_pca_embeddings_3d.svg",
+          "filename": "twenty_newsgroups_02_pca_embeddings_3d.svg",
+          "title": "twenty newsgroups / 02 bert base uncased — twenty newsgroups 02 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/03-ibm-granite_granite-embedding-english-r2/twenty_newsgroups_03_pca_embeddings_2d.html",
+          "filename": "twenty_newsgroups_03_pca_embeddings_2d.html",
+          "title": "twenty newsgroups / 03 ibm granite granite embedding english r2 — twenty newsgroups 03 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/03-ibm-granite_granite-embedding-english-r2/twenty_newsgroups_03_pca_embeddings_2d.png",
+          "filename": "twenty_newsgroups_03_pca_embeddings_2d.png",
+          "title": "twenty newsgroups / 03 ibm granite granite embedding english r2 — twenty newsgroups 03 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/03-ibm-granite_granite-embedding-english-r2/twenty_newsgroups_03_pca_embeddings_2d.svg",
+          "filename": "twenty_newsgroups_03_pca_embeddings_2d.svg",
+          "title": "twenty newsgroups / 03 ibm granite granite embedding english r2 — twenty newsgroups 03 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/03-ibm-granite_granite-embedding-english-r2/twenty_newsgroups_03_pca_embeddings_3d.html",
+          "filename": "twenty_newsgroups_03_pca_embeddings_3d.html",
+          "title": "twenty newsgroups / 03 ibm granite granite embedding english r2 — twenty newsgroups 03 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/03-ibm-granite_granite-embedding-english-r2/twenty_newsgroups_03_pca_embeddings_3d.png",
+          "filename": "twenty_newsgroups_03_pca_embeddings_3d.png",
+          "title": "twenty newsgroups / 03 ibm granite granite embedding english r2 — twenty newsgroups 03 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/03-ibm-granite_granite-embedding-english-r2/twenty_newsgroups_03_pca_embeddings_3d.svg",
+          "filename": "twenty_newsgroups_03_pca_embeddings_3d.svg",
+          "title": "twenty newsgroups / 03 ibm granite granite embedding english r2 — twenty newsgroups 03 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/04-inaai_jina-embeddings-v2-base-en/twenty_newsgroups_04_pca_embeddings_2d.html",
+          "filename": "twenty_newsgroups_04_pca_embeddings_2d.html",
+          "title": "twenty newsgroups / 04 inaai jina embeddings v2 base en — twenty newsgroups 04 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/04-inaai_jina-embeddings-v2-base-en/twenty_newsgroups_04_pca_embeddings_2d.png",
+          "filename": "twenty_newsgroups_04_pca_embeddings_2d.png",
+          "title": "twenty newsgroups / 04 inaai jina embeddings v2 base en — twenty newsgroups 04 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/04-inaai_jina-embeddings-v2-base-en/twenty_newsgroups_04_pca_embeddings_2d.svg",
+          "filename": "twenty_newsgroups_04_pca_embeddings_2d.svg",
+          "title": "twenty newsgroups / 04 inaai jina embeddings v2 base en — twenty newsgroups 04 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/04-inaai_jina-embeddings-v2-base-en/twenty_newsgroups_04_pca_embeddings_3d.html",
+          "filename": "twenty_newsgroups_04_pca_embeddings_3d.html",
+          "title": "twenty newsgroups / 04 inaai jina embeddings v2 base en — twenty newsgroups 04 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/04-inaai_jina-embeddings-v2-base-en/twenty_newsgroups_04_pca_embeddings_3d.png",
+          "filename": "twenty_newsgroups_04_pca_embeddings_3d.png",
+          "title": "twenty newsgroups / 04 inaai jina embeddings v2 base en — twenty newsgroups 04 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/04-inaai_jina-embeddings-v2-base-en/twenty_newsgroups_04_pca_embeddings_3d.svg",
+          "filename": "twenty_newsgroups_04_pca_embeddings_3d.svg",
+          "title": "twenty newsgroups / 04 inaai jina embeddings v2 base en — twenty newsgroups 04 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/05-Qwen_Qwen3-Embedding-8B/twenty_newsgroups_05_pca_embeddings_2d.html",
+          "filename": "twenty_newsgroups_05_pca_embeddings_2d.html",
+          "title": "twenty newsgroups / 05 Qwen Qwen3 Embedding 8B — twenty newsgroups 05 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/05-Qwen_Qwen3-Embedding-8B/twenty_newsgroups_05_pca_embeddings_2d.png",
+          "filename": "twenty_newsgroups_05_pca_embeddings_2d.png",
+          "title": "twenty newsgroups / 05 Qwen Qwen3 Embedding 8B — twenty newsgroups 05 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/05-Qwen_Qwen3-Embedding-8B/twenty_newsgroups_05_pca_embeddings_2d.svg",
+          "filename": "twenty_newsgroups_05_pca_embeddings_2d.svg",
+          "title": "twenty newsgroups / 05 Qwen Qwen3 Embedding 8B — twenty newsgroups 05 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/05-Qwen_Qwen3-Embedding-8B/twenty_newsgroups_05_pca_embeddings_3d.html",
+          "filename": "twenty_newsgroups_05_pca_embeddings_3d.html",
+          "title": "twenty newsgroups / 05 Qwen Qwen3 Embedding 8B — twenty newsgroups 05 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/05-Qwen_Qwen3-Embedding-8B/twenty_newsgroups_05_pca_embeddings_3d.png",
+          "filename": "twenty_newsgroups_05_pca_embeddings_3d.png",
+          "title": "twenty newsgroups / 05 Qwen Qwen3 Embedding 8B — twenty newsgroups 05 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/05-Qwen_Qwen3-Embedding-8B/twenty_newsgroups_05_pca_embeddings_3d.svg",
+          "filename": "twenty_newsgroups_05_pca_embeddings_3d.svg",
+          "title": "twenty newsgroups / 05 Qwen Qwen3 Embedding 8B — twenty newsgroups 05 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/06-roberta-base/twenty_newsgroups_06_pca_embeddings_2d.html",
+          "filename": "twenty_newsgroups_06_pca_embeddings_2d.html",
+          "title": "twenty newsgroups / 06 roberta base — twenty newsgroups 06 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/06-roberta-base/twenty_newsgroups_06_pca_embeddings_2d.png",
+          "filename": "twenty_newsgroups_06_pca_embeddings_2d.png",
+          "title": "twenty newsgroups / 06 roberta base — twenty newsgroups 06 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/06-roberta-base/twenty_newsgroups_06_pca_embeddings_2d.svg",
+          "filename": "twenty_newsgroups_06_pca_embeddings_2d.svg",
+          "title": "twenty newsgroups / 06 roberta base — twenty newsgroups 06 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/06-roberta-base/twenty_newsgroups_06_pca_embeddings_3d.html",
+          "filename": "twenty_newsgroups_06_pca_embeddings_3d.html",
+          "title": "twenty newsgroups / 06 roberta base — twenty newsgroups 06 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/06-roberta-base/twenty_newsgroups_06_pca_embeddings_3d.png",
+          "filename": "twenty_newsgroups_06_pca_embeddings_3d.png",
+          "title": "twenty newsgroups / 06 roberta base — twenty newsgroups 06 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/06-roberta-base/twenty_newsgroups_06_pca_embeddings_3d.svg",
+          "filename": "twenty_newsgroups_06_pca_embeddings_3d.svg",
+          "title": "twenty newsgroups / 06 roberta base — twenty newsgroups 06 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/07-sentence-transformers_all-mpnet-base-v2/twenty_newsgroups_07_pca_embeddings_2d.html",
+          "filename": "twenty_newsgroups_07_pca_embeddings_2d.html",
+          "title": "twenty newsgroups / 07 sentence transformers all mpnet base v2 — twenty newsgroups 07 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/07-sentence-transformers_all-mpnet-base-v2/twenty_newsgroups_07_pca_embeddings_2d.png",
+          "filename": "twenty_newsgroups_07_pca_embeddings_2d.png",
+          "title": "twenty newsgroups / 07 sentence transformers all mpnet base v2 — twenty newsgroups 07 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/07-sentence-transformers_all-mpnet-base-v2/twenty_newsgroups_07_pca_embeddings_2d.svg",
+          "filename": "twenty_newsgroups_07_pca_embeddings_2d.svg",
+          "title": "twenty newsgroups / 07 sentence transformers all mpnet base v2 — twenty newsgroups 07 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/07-sentence-transformers_all-mpnet-base-v2/twenty_newsgroups_07_pca_embeddings_3d.html",
+          "filename": "twenty_newsgroups_07_pca_embeddings_3d.html",
+          "title": "twenty newsgroups / 07 sentence transformers all mpnet base v2 — twenty newsgroups 07 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/07-sentence-transformers_all-mpnet-base-v2/twenty_newsgroups_07_pca_embeddings_3d.png",
+          "filename": "twenty_newsgroups_07_pca_embeddings_3d.png",
+          "title": "twenty newsgroups / 07 sentence transformers all mpnet base v2 — twenty newsgroups 07 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/07-sentence-transformers_all-mpnet-base-v2/twenty_newsgroups_07_pca_embeddings_3d.svg",
+          "filename": "twenty_newsgroups_07_pca_embeddings_3d.svg",
+          "title": "twenty newsgroups / 07 sentence transformers all mpnet base v2 — twenty newsgroups 07 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/08-all-MiniLM-L6-v2/twenty_newsgroups_08_pca_embeddings_2d.html",
+          "filename": "twenty_newsgroups_08_pca_embeddings_2d.html",
+          "title": "twenty newsgroups / 08 all MiniLM L6 v2 — twenty newsgroups 08 pca embeddings 2d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/08-all-MiniLM-L6-v2/twenty_newsgroups_08_pca_embeddings_2d.png",
+          "filename": "twenty_newsgroups_08_pca_embeddings_2d.png",
+          "title": "twenty newsgroups / 08 all MiniLM L6 v2 — twenty newsgroups 08 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/08-all-MiniLM-L6-v2/twenty_newsgroups_08_pca_embeddings_2d.svg",
+          "filename": "twenty_newsgroups_08_pca_embeddings_2d.svg",
+          "title": "twenty newsgroups / 08 all MiniLM L6 v2 — twenty newsgroups 08 pca embeddings 2d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/08-all-MiniLM-L6-v2/twenty_newsgroups_08_pca_embeddings_3d.html",
+          "filename": "twenty_newsgroups_08_pca_embeddings_3d.html",
+          "title": "twenty newsgroups / 08 all MiniLM L6 v2 — twenty newsgroups 08 pca embeddings 3d",
+          "type": "html"
+        },
+        {
+          "file": "twenty_newsgroups/08-all-MiniLM-L6-v2/twenty_newsgroups_08_pca_embeddings_3d.png",
+          "filename": "twenty_newsgroups_08_pca_embeddings_3d.png",
+          "title": "twenty newsgroups / 08 all MiniLM L6 v2 — twenty newsgroups 08 pca embeddings 3d",
+          "type": "image"
+        },
+        {
+          "file": "twenty_newsgroups/08-all-MiniLM-L6-v2/twenty_newsgroups_08_pca_embeddings_3d.svg",
+          "filename": "twenty_newsgroups_08_pca_embeddings_3d.svg",
+          "title": "twenty newsgroups / 08 all MiniLM L6 v2 — twenty newsgroups 08 pca embeddings 3d",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "name": "results_top10",
+      "slug": "results-top10",
+      "path": "results_top10",
+      "items": [
+        {
+          "file": "daircos_plot/static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "daircos plot — static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "daircos_plot/static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "daircos plot — static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "daircos_plot/static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "daircos plot — static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "daircos_plot/static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "daircos plot — static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "daircos_plot/static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "daircos plot — static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "daircos_plot/static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "daircos plot — static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "daircos_plot/static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "daircos plot — static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "daircos_plot/static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "daircos plot — static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "daircos_plot/static_PCA_plot 10.png",
+          "filename": "static_PCA_plot 10.png",
+          "title": "daircos plot — static PCA plot 10",
+          "type": "image"
+        },
+        {
+          "file": "daircos_plot/static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "daircos plot — static PCA plot",
+          "type": "image"
+        },
+        {
+          "file": "daireuc_plot/static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "daireuc plot — static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "daireuc_plot/static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "daireuc plot — static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "daireuc_plot/static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "daireuc plot — static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "daireuc_plot/static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "daireuc plot — static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "daireuc_plot/static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "daireuc plot — static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "daireuc_plot/static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "daireuc plot — static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "daireuc_plot/static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "daireuc plot — static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "daireuc_plot/static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "daireuc plot — static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "daireuc_plot/static_PCA_plot 10.png",
+          "filename": "static_PCA_plot 10.png",
+          "title": "daireuc plot — static PCA plot 10",
+          "type": "image"
+        },
+        {
+          "file": "daireuc_plot/static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "daireuc plot — static PCA plot",
+          "type": "image"
+        },
+        {
+          "file": "goemo6cos_plot/static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "goemo6cos plot — static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "goemo6cos_plot/static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "goemo6cos plot — static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "goemo6cos_plot/static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "goemo6cos plot — static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "goemo6cos_plot/static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "goemo6cos plot — static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "goemo6cos_plot/static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "goemo6cos plot — static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "goemo6cos_plot/static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "goemo6cos plot — static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "goemo6cos_plot/static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "goemo6cos plot — static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "goemo6cos_plot/static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "goemo6cos plot — static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "goemo6cos_plot/static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "goemo6cos plot — static PCA plot",
+          "type": "image"
+        },
+        {
+          "file": "goemo6euc_plot/static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "goemo6euc plot — static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "goemo6euc_plot/static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "goemo6euc plot — static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "goemo6euc_plot/static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "goemo6euc plot — static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "goemo6euc_plot/static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "goemo6euc plot — static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "goemo6euc_plot/static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "goemo6euc plot — static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "goemo6euc_plot/static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "goemo6euc plot — static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "goemo6euc_plot/static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "goemo6euc plot — static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "goemo6euc_plot/static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "goemo6euc plot — static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "goemo6euc_plot/static_PCA_plot 10.png",
+          "filename": "static_PCA_plot 10.png",
+          "title": "goemo6euc plot — static PCA plot 10",
+          "type": "image"
+        },
+        {
+          "file": "goemo6euc_plot/static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "goemo6euc plot — static PCA plot",
+          "type": "image"
+        },
+        {
+          "file": "goemocos_plot/static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "goemocos plot — static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "goemocos_plot/static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "goemocos plot — static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "goemocos_plot/static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "goemocos plot — static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "goemocos_plot/static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "goemocos plot — static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "goemocos_plot/static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "goemocos plot — static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "goemocos_plot/static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "goemocos plot — static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "goemocos_plot/static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "goemocos plot — static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "goemocos_plot/static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "goemocos plot — static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "goemocos_plot/static_PCA_plot 10.png",
+          "filename": "static_PCA_plot 10.png",
+          "title": "goemocos plot — static PCA plot 10",
+          "type": "image"
+        },
+        {
+          "file": "goemocos_plot/static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "goemocos plot — static PCA plot",
+          "type": "image"
+        },
+        {
+          "file": "goemoeuc_plot/static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "goemoeuc plot — static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "goemoeuc_plot/static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "goemoeuc plot — static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "goemoeuc_plot/static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "goemoeuc plot — static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "goemoeuc_plot/static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "goemoeuc plot — static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "goemoeuc_plot/static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "goemoeuc plot — static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "goemoeuc_plot/static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "goemoeuc plot — static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "goemoeuc_plot/static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "goemoeuc plot — static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "goemoeuc_plot/static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "goemoeuc plot — static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "goemoeuc_plot/static_PCA_plot 10.png",
+          "filename": "static_PCA_plot 10.png",
+          "title": "goemoeuc plot — static PCA plot 10",
+          "type": "image"
+        },
+        {
+          "file": "goemoeuc_plot/static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "goemoeuc plot — static PCA plot",
+          "type": "image"
+        },
+        {
+          "file": "goemosinglecos_plot/static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "goemosinglecos plot — static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "goemosinglecos_plot/static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "goemosinglecos plot — static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "goemosinglecos_plot/static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "goemosinglecos plot — static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "goemosinglecos_plot/static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "goemosinglecos plot — static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "goemosinglecos_plot/static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "goemosinglecos plot — static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "goemosinglecos_plot/static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "goemosinglecos plot — static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "goemosinglecos_plot/static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "goemosinglecos plot — static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "goemosinglecos_plot/static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "goemosinglecos plot — static PCA plot",
+          "type": "image"
+        },
+        {
+          "file": "goemosingleeuc_plot/static_PCA_plot 2.png",
+          "filename": "static_PCA_plot 2.png",
+          "title": "goemosingleeuc plot — static PCA plot 2",
+          "type": "image"
+        },
+        {
+          "file": "goemosingleeuc_plot/static_PCA_plot 3.png",
+          "filename": "static_PCA_plot 3.png",
+          "title": "goemosingleeuc plot — static PCA plot 3",
+          "type": "image"
+        },
+        {
+          "file": "goemosingleeuc_plot/static_PCA_plot 4.png",
+          "filename": "static_PCA_plot 4.png",
+          "title": "goemosingleeuc plot — static PCA plot 4",
+          "type": "image"
+        },
+        {
+          "file": "goemosingleeuc_plot/static_PCA_plot 5.png",
+          "filename": "static_PCA_plot 5.png",
+          "title": "goemosingleeuc plot — static PCA plot 5",
+          "type": "image"
+        },
+        {
+          "file": "goemosingleeuc_plot/static_PCA_plot 6.png",
+          "filename": "static_PCA_plot 6.png",
+          "title": "goemosingleeuc plot — static PCA plot 6",
+          "type": "image"
+        },
+        {
+          "file": "goemosingleeuc_plot/static_PCA_plot 7.png",
+          "filename": "static_PCA_plot 7.png",
+          "title": "goemosingleeuc plot — static PCA plot 7",
+          "type": "image"
+        },
+        {
+          "file": "goemosingleeuc_plot/static_PCA_plot 8.png",
+          "filename": "static_PCA_plot 8.png",
+          "title": "goemosingleeuc plot — static PCA plot 8",
+          "type": "image"
+        },
+        {
+          "file": "goemosingleeuc_plot/static_PCA_plot 9.png",
+          "filename": "static_PCA_plot 9.png",
+          "title": "goemosingleeuc plot — static PCA plot 9",
+          "type": "image"
+        },
+        {
+          "file": "goemosingleeuc_plot/static_PCA_plot 10.png",
+          "filename": "static_PCA_plot 10.png",
+          "title": "goemosingleeuc plot — static PCA plot 10",
+          "type": "image"
+        },
+        {
+          "file": "goemosingleeuc_plot/static_PCA_plot.png",
+          "filename": "static_PCA_plot.png",
+          "title": "goemosingleeuc plot — static PCA plot",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}

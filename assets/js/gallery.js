@@ -1,238 +1,282 @@
-// Gallery configuration
 const PLOTS_PER_PAGE = 12;
 
-// Define your plots here
-const PLOTS = [
-  // AG News - 2D PCA Embeddings
-  { type: "svg", file: "plots/2d/ag_news_01_pca_embeddings_2d.svg", title: "AG News - 2D PCA Embeddings #01" },
-  { type: "svg", file: "plots/2d/ag_news_02_pca_embeddings_2d.svg", title: "AG News - 2D PCA Embeddings #02" },
-  { type: "svg", file: "plots/2d/ag_news_03_pca_embeddings_2d.svg", title: "AG News - 2D PCA Embeddings #03" },
-  { type: "svg", file: "plots/2d/ag_news_04_pca_embeddings_2d.svg", title: "AG News - 2D PCA Embeddings #04" },
-  { type: "svg", file: "plots/2d/ag_news_05_pca_embeddings_2d.svg", title: "AG News - 2D PCA Embeddings #05" },
-  { type: "svg", file: "plots/2d/ag_news_06_pca_embeddings_2d.svg", title: "AG News - 2D PCA Embeddings #06" },
-  { type: "svg", file: "plots/2d/ag_news_07_pca_embeddings_2d.svg", title: "AG News - 2D PCA Embeddings #07" },
-  { type: "svg", file: "plots/2d/ag_news_08_pca_embeddings_2d.svg", title: "AG News - 2D PCA Embeddings #08" },
-  
-  // AG News - 3D PCA Embeddings
-  { type: "svg", file: "plots/3d/ag_news_01_pca_embeddings_3d.svg", title: "AG News - 3D PCA Embeddings #01" },
-  { type: "svg", file: "plots/3d/ag_news_02_pca_embeddings_3d.svg", title: "AG News - 3D PCA Embeddings #02" },
-  { type: "svg", file: "plots/3d/ag_news_03_pca_embeddings_3d.svg", title: "AG News - 3D PCA Embeddings #03" },
-  { type: "svg", file: "plots/3d/ag_news_04_pca_embeddings_3d.svg", title: "AG News - 3D PCA Embeddings #04" },
-  { type: "svg", file: "plots/3d/ag_news_05_pca_embeddings_3d.svg", title: "AG News - 3D PCA Embeddings #05" },
-  { type: "svg", file: "plots/3d/ag_news_06_pca_embeddings_3d.svg", title: "AG News - 3D PCA Embeddings #06" },
-  { type: "svg", file: "plots/3d/ag_news_07_pca_embeddings_3d.svg", title: "AG News - 3D PCA Embeddings #07" },
-  { type: "svg", file: "plots/3d/ag_news_08_pca_embeddings_3d.svg", title: "AG News - 3D PCA Embeddings #08" },
-  
-  // DAIR-AI - 2D PCA Embeddings
-  { type: "svg", file: "plots/2d/dair-ai_01_pca_embeddings_2d.svg", title: "DAIR-AI - 2D PCA Embeddings #01" },
-  { type: "svg", file: "plots/2d/dair-ai_02_pca_embeddings_2d.svg", title: "DAIR-AI - 2D PCA Embeddings #02" },
-  { type: "svg", file: "plots/2d/dair-ai_03_pca_embeddings_2d.svg", title: "DAIR-AI - 2D PCA Embeddings #03" },
-  { type: "svg", file: "plots/2d/dair-ai_04_pca_embeddings_2d.svg", title: "DAIR-AI - 2D PCA Embeddings #04" },
-  { type: "svg", file: "plots/2d/dair-ai_05_pca_embeddings_2d.svg", title: "DAIR-AI - 2D PCA Embeddings #05" },
-  { type: "svg", file: "plots/2d/dair-ai_06_pca_embeddings_2d.svg", title: "DAIR-AI - 2D PCA Embeddings #06" },
-  { type: "svg", file: "plots/2d/dair-ai_07_pca_embeddings_2d.svg", title: "DAIR-AI - 2D PCA Embeddings #07" },
-  { type: "svg", file: "plots/2d/dair-ai_08_pca_embeddings_2d.svg", title: "DAIR-AI - 2D PCA Embeddings #08" },
-  
-  // DAIR-AI - 3D PCA Embeddings
-  { type: "svg", file: "plots/3d/dair-ai_01_pca_embeddings_3d.svg", title: "DAIR-AI - 3D PCA Embeddings #01" },
-  { type: "svg", file: "plots/3d/dair-ai_02_pca_embeddings_3d.svg", title: "DAIR-AI - 3D PCA Embeddings #02" },
-  { type: "svg", file: "plots/3d/dair-ai_03_pca_embeddings_3d.svg", title: "DAIR-AI - 3D PCA Embeddings #03" },
-  { type: "svg", file: "plots/3d/dair-ai_04_pca_embeddings_3d.svg", title: "DAIR-AI - 3D PCA Embeddings #04" },
-  { type: "svg", file: "plots/3d/dair-ai_05_pca_embeddings_3d.svg", title: "DAIR-AI - 3D PCA Embeddings #05" },
-  { type: "svg", file: "plots/3d/dair-ai_06_pca_embeddings_3d.svg", title: "DAIR-AI - 3D PCA Embeddings #06" },
-  { type: "svg", file: "plots/3d/dair-ai_07_pca_embeddings_3d.svg", title: "DAIR-AI - 3D PCA Embeddings #07" },
-  { type: "svg", file: "plots/3d/dair-ai_08_pca_embeddings_3d.svg", title: "DAIR-AI - 3D PCA Embeddings #08" },
-  
-  // Go Emotions - 2D PCA Embeddings
-  { type: "svg", file: "plots/2d/go_emotions_01_pca_embeddings_2d.svg", title: "Go Emotions - 2D PCA Embeddings #01" },
-  { type: "svg", file: "plots/2d/go_emotions_02_pca_embeddings_2d.svg", title: "Go Emotions - 2D PCA Embeddings #02" },
-  { type: "svg", file: "plots/2d/go_emotions_03_pca_embeddings_2d.svg", title: "Go Emotions - 2D PCA Embeddings #03" },
-  { type: "svg", file: "plots/2d/go_emotions_04_pca_embeddings_2d.svg", title: "Go Emotions - 2D PCA Embeddings #04" },
-  { type: "svg", file: "plots/2d/go_emotions_05_pca_embeddings_2d.svg", title: "Go Emotions - 2D PCA Embeddings #05" },
-  { type: "svg", file: "plots/2d/go_emotions_06_pca_embeddings_2d.svg", title: "Go Emotions - 2D PCA Embeddings #06" },
-  { type: "svg", file: "plots/2d/go_emotions_07_pca_embeddings_2d.svg", title: "Go Emotions - 2D PCA Embeddings #07" },
-  { type: "svg", file: "plots/2d/go_emotions_08_pca_embeddings_2d.svg", title: "Go Emotions - 2D PCA Embeddings #08" },
-  
-  // Go Emotions - 3D PCA Embeddings
-  { type: "svg", file: "plots/3d/go_emotions_01_pca_embeddings_3d.svg", title: "Go Emotions - 3D PCA Embeddings #01" },
-  { type: "svg", file: "plots/3d/go_emotions_02_pca_embeddings_3d.svg", title: "Go Emotions - 3D PCA Embeddings #02" },
-  { type: "svg", file: "plots/3d/go_emotions_03_pca_embeddings_3d.svg", title: "Go Emotions - 3D PCA Embeddings #03" },
-  { type: "svg", file: "plots/3d/go_emotions_04_pca_embeddings_3d.svg", title: "Go Emotions - 3D PCA Embeddings #04" },
-  { type: "svg", file: "plots/3d/go_emotions_05_pca_embeddings_3d.svg", title: "Go Emotions - 3D PCA Embeddings #05" },
-  { type: "svg", file: "plots/3d/go_emotions_06_pca_embeddings_3d.svg", title: "Go Emotions - 3D PCA Embeddings #06" },
-  { type: "svg", file: "plots/3d/go_emotions_07_pca_embeddings_3d.svg", title: "Go Emotions - 3D PCA Embeddings #07" },
-  { type: "svg", file: "plots/3d/go_emotions_08_pca_embeddings_3d.svg", title: "Go Emotions - 3D PCA Embeddings #08" },
-  
-  // Go Emotions (6 Labels) - 2D PCA Embeddings
-  { type: "svg", file: "plots/2d/go_emotions_6labels_01_pca_embeddings_2d.svg", title: "Go Emotions (6 Labels) - 2D PCA Embeddings #01" },
-  { type: "svg", file: "plots/2d/go_emotions_6labels_02_pca_embeddings_2d.svg", title: "Go Emotions (6 Labels) - 2D PCA Embeddings #02" },
-  { type: "svg", file: "plots/2d/go_emotions_6labels_03_pca_embeddings_2d.svg", title: "Go Emotions (6 Labels) - 2D PCA Embeddings #03" },
-  { type: "svg", file: "plots/2d/go_emotions_6labels_04_pca_embeddings_2d.svg", title: "Go Emotions (6 Labels) - 2D PCA Embeddings #04" },
-  { type: "svg", file: "plots/2d/go_emotions_6labels_05_pca_embeddings_2d.svg", title: "Go Emotions (6 Labels) - 2D PCA Embeddings #05" },
-  { type: "svg", file: "plots/2d/go_emotions_6labels_06_pca_embeddings_2d.svg", title: "Go Emotions (6 Labels) - 2D PCA Embeddings #06" },
-  { type: "svg", file: "plots/2d/go_emotions_6labels_07_pca_embeddings_2d.svg", title: "Go Emotions (6 Labels) - 2D PCA Embeddings #07" },
-  { type: "svg", file: "plots/2d/go_emotions_6labels_08_pca_embeddings_2d.svg", title: "Go Emotions (6 Labels) - 2D PCA Embeddings #08" },
-  
-  // Go Emotions (6 Labels) - 3D PCA Embeddings
-  { type: "svg", file: "plots/3d/go_emotions_6labels_01_pca_embeddings_3d.svg", title: "Go Emotions (6 Labels) - 3D PCA Embeddings #01" },
-  { type: "svg", file: "plots/3d/go_emotions_6labels_02_pca_embeddings_3d.svg", title: "Go Emotions (6 Labels) - 3D PCA Embeddings #02" },
-  { type: "svg", file: "plots/3d/go_emotions_6labels_03_pca_embeddings_3d.svg", title: "Go Emotions (6 Labels) - 3D PCA Embeddings #03" },
-  { type: "svg", file: "plots/3d/go_emotions_6labels_04_pca_embeddings_3d.svg", title: "Go Emotions (6 Labels) - 3D PCA Embeddings #04" },
-  { type: "svg", file: "plots/3d/go_emotions_6labels_05_pca_embeddings_3d.svg", title: "Go Emotions (6 Labels) - 3D PCA Embeddings #05" },
-  { type: "svg", file: "plots/3d/go_emotions_6labels_06_pca_embeddings_3d.svg", title: "Go Emotions (6 Labels) - 3D PCA Embeddings #06" },
-  { type: "svg", file: "plots/3d/go_emotions_6labels_07_pca_embeddings_3d.svg", title: "Go Emotions (6 Labels) - 3D PCA Embeddings #07" },
-  { type: "svg", file: "plots/3d/go_emotions_6labels_08_pca_embeddings_3d.svg", title: "Go Emotions (6 Labels) - 3D PCA Embeddings #08" },
-  
-  // Go Emotions (Single Label) - 2D PCA Embeddings
-  { type: "svg", file: "plots/2d/go_emotions_single_label_01_pca_embeddings_2d.svg", title: "Go Emotions (Single Label) - 2D PCA Embeddings #01" },
-  { type: "svg", file: "plots/2d/go_emotions_single_label_02_pca_embeddings_2d.svg", title: "Go Emotions (Single Label) - 2D PCA Embeddings #02" },
-  { type: "svg", file: "plots/2d/go_emotions_single_label_03_pca_embeddings_2d.svg", title: "Go Emotions (Single Label) - 2D PCA Embeddings #03" },
-  { type: "svg", file: "plots/2d/go_emotions_single_label_04_pca_embeddings_2d.svg", title: "Go Emotions (Single Label) - 2D PCA Embeddings #04" },
-  { type: "svg", file: "plots/2d/go_emotions_single_label_05_pca_embeddings_2d.svg", title: "Go Emotions (Single Label) - 2D PCA Embeddings #05" },
-  { type: "svg", file: "plots/2d/go_emotions_single_label_06_pca_embeddings_2d.svg", title: "Go Emotions (Single Label) - 2D PCA Embeddings #06" },
-  { type: "svg", file: "plots/2d/go_emotions_single_label_07_pca_embeddings_2d.svg", title: "Go Emotions (Single Label) - 2D PCA Embeddings #07" },
-  { type: "svg", file: "plots/2d/go_emotions_single_label_08_pca_embeddings_2d.svg", title: "Go Emotions (Single Label) - 2D PCA Embeddings #08" },
-  
-  // Go Emotions (Single Label) - 3D PCA Embeddings
-  { type: "svg", file: "plots/3d/go_emotions_single_label_01_pca_embeddings_3d.svg", title: "Go Emotions (Single Label) - 3D PCA Embeddings #01" },
-  { type: "svg", file: "plots/3d/go_emotions_single_label_02_pca_embeddings_3d.svg", title: "Go Emotions (Single Label) - 3D PCA Embeddings #02" },
-  { type: "svg", file: "plots/3d/go_emotions_single_label_03_pca_embeddings_3d.svg", title: "Go Emotions (Single Label) - 3D PCA Embeddings #03" },
-  { type: "svg", file: "plots/3d/go_emotions_single_label_04_pca_embeddings_3d.svg", title: "Go Emotions (Single Label) - 3D PCA Embeddings #04" },
-  { type: "svg", file: "plots/3d/go_emotions_single_label_05_pca_embeddings_3d.svg", title: "Go Emotions (Single Label) - 3D PCA Embeddings #05" },
-  { type: "svg", file: "plots/3d/go_emotions_single_label_06_pca_embeddings_3d.svg", title: "Go Emotions (Single Label) - 3D PCA Embeddings #06" },
-  { type: "svg", file: "plots/3d/go_emotions_single_label_07_pca_embeddings_3d.svg", title: "Go Emotions (Single Label) - 3D PCA Embeddings #07" },
-  { type: "svg", file: "plots/3d/go_emotions_single_label_08_pca_embeddings_3d.svg", title: "Go Emotions (Single Label) - 3D PCA Embeddings #08" },
-  
-  // Twenty Newsgroups - 2D PCA Embeddings
-  { type: "svg", file: "plots/2d/twenty_newsgroups_01_pca_embeddings_2d.svg", title: "Twenty Newsgroups - 2D PCA Embeddings #01" },
-  { type: "svg", file: "plots/2d/twenty_newsgroups_02_pca_embeddings_2d.svg", title: "Twenty Newsgroups - 2D PCA Embeddings #02" },
-  { type: "svg", file: "plots/2d/twenty_newsgroups_03_pca_embeddings_2d.svg", title: "Twenty Newsgroups - 2D PCA Embeddings #03" },
-  { type: "svg", file: "plots/2d/twenty_newsgroups_04_pca_embeddings_2d.svg", title: "Twenty Newsgroups - 2D PCA Embeddings #04" },
-  { type: "svg", file: "plots/2d/twenty_newsgroups_05_pca_embeddings_2d.svg", title: "Twenty Newsgroups - 2D PCA Embeddings #05" },
-  { type: "svg", file: "plots/2d/twenty_newsgroups_06_pca_embeddings_2d.svg", title: "Twenty Newsgroups - 2D PCA Embeddings #06" },
-  { type: "svg", file: "plots/2d/twenty_newsgroups_07_pca_embeddings_2d.svg", title: "Twenty Newsgroups - 2D PCA Embeddings #07" },
-  { type: "svg", file: "plots/2d/twenty_newsgroups_08_pca_embeddings_2d.svg", title: "Twenty Newsgroups - 2D PCA Embeddings #08" },
-  
-  // Twenty Newsgroups - 3D PCA Embeddings
-  { type: "svg", file: "plots/3d/twenty_newsgroups_01_pca_embeddings_3d.svg", title: "Twenty Newsgroups - 3D PCA Embeddings #01" },
-  { type: "svg", file: "plots/3d/twenty_newsgroups_02_pca_embeddings_3d.svg", title: "Twenty Newsgroups - 3D PCA Embeddings #02" },
-  { type: "svg", file: "plots/3d/twenty_newsgroups_03_pca_embeddings_3d.svg", title: "Twenty Newsgroups - 3D PCA Embeddings #03" },
-  { type: "svg", file: "plots/3d/twenty_newsgroups_04_pca_embeddings_3d.svg", title: "Twenty Newsgroups - 3D PCA Embeddings #04" },
-  { type: "svg", file: "plots/3d/twenty_newsgroups_05_pca_embeddings_3d.svg", title: "Twenty Newsgroups - 3D PCA Embeddings #05" },
-  { type: "svg", file: "plots/3d/twenty_newsgroups_06_pca_embeddings_3d.svg", title: "Twenty Newsgroups - 3D PCA Embeddings #06" },
-  { type: "svg", file: "plots/3d/twenty_newsgroups_07_pca_embeddings_3d.svg", title: "Twenty Newsgroups - 3D PCA Embeddings #07" },
-  { type: "svg", file: "plots/3d/twenty_newsgroups_08_pca_embeddings_3d.svg", title: "Twenty Newsgroups - 3D PCA Embeddings #08" }
-];
-
-// Gallery state
+let galleryData;
+let currentCategory = null;
 let currentPage = 0;
-const totalPages = Math.ceil(PLOTS.length / PLOTS_PER_PAGE);
 
-// DOM elements
 const galleryContainer = document.getElementById('gallery-container');
 const prevBtn = document.getElementById('prev-btn');
 const nextBtn = document.getElementById('next-btn');
 const paginationInfo = document.getElementById('pagination-info');
+const categoryNav = document.getElementById('category-nav');
+const categoryMeta = document.getElementById('category-meta');
+const galleryMessage = document.getElementById('gallery-message');
+const sourcePath = document.getElementById('gallery-source');
 
-// Initialize gallery
-function initGallery() {
-  renderGallery();
-  updatePaginationControls();
-  attachEventListeners();
+function setMessage(message, isError = false) {
+  if (!galleryMessage) return;
+  if (!message) {
+    galleryMessage.classList.remove('is-visible', 'is-error');
+    galleryMessage.textContent = '';
+    return;
+  }
+  galleryMessage.textContent = message;
+  galleryMessage.classList.add('is-visible');
+  galleryMessage.classList.toggle('is-error', Boolean(isError));
 }
 
-// Render gallery items for current page
-function renderGallery() {
-  const startIndex = currentPage * PLOTS_PER_PAGE;
-  const endIndex = Math.min(startIndex + PLOTS_PER_PAGE, PLOTS.length);
-  const plotsToShow = PLOTS.slice(startIndex, endIndex);
+async function fetchGalleryData() {
+  const response = await fetch('assets/data/gallery-data.json', { cache: 'no-store' });
+  if (!response.ok) {
+    throw new Error(`Failed to load gallery data (${response.status})`);
+  }
+  const data = await response.json();
+  if (!data.categories || data.categories.length === 0) {
+    throw new Error('No categories found in gallery data');
+  }
+  return data;
+}
 
-  galleryContainer.innerHTML = '';
+function getSlugFromLocation() {
+  const params = new URL(window.location.href).searchParams;
+  return params.get('category');
+}
 
-  plotsToShow.forEach(plot => {
-    const item = createGalleryItem(plot);
-    galleryContainer.appendChild(item);
+function getInitialCategorySlug() {
+  const slugFromUrl = getSlugFromLocation();
+  if (slugFromUrl && galleryData.categories.some(cat => cat.slug === slugFromUrl)) {
+    return slugFromUrl;
+  }
+  return galleryData.categories[0].slug;
+}
+
+function buildCategoryNav() {
+  if (!categoryNav) return;
+  categoryNav.innerHTML = '';
+
+  galleryData.categories.forEach(category => {
+    const pill = document.createElement('a');
+    pill.href = `?category=${encodeURIComponent(category.slug)}`;
+    pill.className = 'category-pill';
+    pill.dataset.slug = category.slug;
+    pill.innerHTML = `
+      <span class="pill-label">${category.name}</span>
+      <span class="pill-count">${category.items.length}</span>
+    `;
+    pill.addEventListener('click', event => {
+      event.preventDefault();
+      if (category.slug !== currentCategory?.slug) {
+        setCategory(category.slug);
+      }
+    });
+    categoryNav.appendChild(pill);
   });
 }
 
-// Create a single gallery item
-function createGalleryItem(plot) {
-  const item = document.createElement('div');
-  item.className = 'gallery-item';
+function setCategory(slug, { skipUrlUpdate = false } = {}) {
+  const category =
+    galleryData.categories.find(cat => cat.slug === slug) || galleryData.categories[0];
+
+  if (!category) return;
+
+  currentCategory = category;
+  currentPage = 0;
+
+  highlightActiveCategory(category.slug);
+  updateCategoryMeta();
+  renderGallery();
+  updatePaginationControls();
+
+  if (!skipUrlUpdate) {
+    updateUrl(category.slug);
+  }
+}
+
+function highlightActiveCategory(slug) {
+  if (!categoryNav) return;
+  const pills = categoryNav.querySelectorAll('.category-pill');
+  pills.forEach(pill => {
+    pill.classList.toggle('active', pill.dataset.slug === slug);
+  });
+}
+
+function updateCategoryMeta() {
+  if (!categoryMeta || !currentCategory) return;
+  categoryMeta.textContent = `${currentCategory.items.length} plots • ${currentCategory.path}`;
+}
+
+function renderGallery() {
+  if (!galleryContainer) return;
+  galleryContainer.innerHTML = '';
+
+  if (!currentCategory || !currentCategory.items.length) {
+    setMessage('このカテゴリには表示できるプロットがありません。', false);
+    return;
+  }
+
+  setMessage('');
+  const startIndex = currentPage * PLOTS_PER_PAGE;
+  const endIndex = Math.min(startIndex + PLOTS_PER_PAGE, currentCategory.items.length);
+  const itemsToShow = currentCategory.items.slice(startIndex, endIndex);
+
+  itemsToShow.forEach(item => {
+    const card = createGalleryItem(item);
+    galleryContainer.appendChild(card);
+  });
+}
+
+function createGalleryItem(item) {
+  const itemEl = document.createElement('div');
+  itemEl.className = 'gallery-item';
 
   const title = document.createElement('h3');
   title.className = 'gallery-item-title';
-  title.textContent = plot.title;
+  title.textContent = item.title;
 
   const content = document.createElement('div');
   content.className = 'gallery-item-content';
 
-  if (plot.type === 'svg') {
-    // For SVG files, embed directly
+  const src = getItemSrc(item);
+
+  if (item.type === 'html') {
+    const iframe = document.createElement('iframe');
+    iframe.src = src;
+    iframe.title = item.title;
+    iframe.loading = 'lazy';
+    content.appendChild(iframe);
+  } else {
     const img = document.createElement('img');
-    img.src = plot.file;
-    img.alt = plot.title;
+    img.src = src;
+    img.alt = item.title;
+    img.loading = 'lazy';
     img.style.width = '100%';
     img.style.height = 'auto';
     content.appendChild(img);
-  } else if (plot.type === 'html') {
-    // For HTML files (Plotly), use iframe
-    const iframe = document.createElement('iframe');
-    iframe.src = plot.file;
-    iframe.title = plot.title;
-    iframe.setAttribute('loading', 'lazy');
-    content.appendChild(iframe);
   }
 
   const typeBadge = document.createElement('span');
-  typeBadge.className = `gallery-item-type type-${plot.type}`;
-  typeBadge.textContent = plot.type.toUpperCase();
+  typeBadge.className = `gallery-item-type type-${item.type}`;
+  typeBadge.textContent = getBadgeLabel(item);
 
-  item.appendChild(title);
-  item.appendChild(content);
-  item.appendChild(typeBadge);
+  itemEl.appendChild(title);
+  itemEl.appendChild(content);
+  itemEl.appendChild(typeBadge);
 
-  return item;
+  return itemEl;
 }
 
-// Update pagination controls
+function getBadgeLabel(item) {
+  if (item.type === 'html') return 'HTML';
+  const parts = item.filename.split('.');
+  const ext = parts.length > 1 ? parts.pop() : item.type;
+  return ext.toUpperCase();
+}
+
+function getItemSrc(item) {
+  const rawPath = `${galleryData.baseUrl}/${currentCategory.path}/${item.file}`;
+  return encodeURI(rawPath);
+}
+
+function getTotalPages() {
+  if (!currentCategory) return 0;
+  return Math.ceil(currentCategory.items.length / PLOTS_PER_PAGE);
+}
+
 function updatePaginationControls() {
+  if (!prevBtn || !nextBtn || !paginationInfo) return;
+
+  if (!currentCategory) {
+    paginationInfo.textContent = '0 / 0';
+    prevBtn.disabled = true;
+    nextBtn.disabled = true;
+    return;
+  }
+
+  const totalPages = getTotalPages();
+
+  if (currentCategory.items.length === 0) {
+    paginationInfo.textContent = '0 / 0';
+    prevBtn.disabled = true;
+    nextBtn.disabled = true;
+    return;
+  }
+
   const startIndex = currentPage * PLOTS_PER_PAGE + 1;
-  const endIndex = Math.min((currentPage + 1) * PLOTS_PER_PAGE, PLOTS.length);
-  
-  paginationInfo.textContent = `${startIndex}-${endIndex} of ${PLOTS.length}`;
-  
+  const endIndex = Math.min((currentPage + 1) * PLOTS_PER_PAGE, currentCategory.items.length);
+  paginationInfo.textContent = `${startIndex}-${endIndex} / ${currentCategory.items.length}`;
+
   prevBtn.disabled = currentPage === 0;
   nextBtn.disabled = currentPage >= totalPages - 1;
 }
 
-// Attach event listeners
-function attachEventListeners() {
-  prevBtn.addEventListener('click', () => {
-    if (currentPage > 0) {
-      currentPage--;
-      renderGallery();
-      updatePaginationControls();
-      // Scroll to top of gallery
-      galleryContainer.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    }
-  });
+function scrollToGalleryTop() {
+  if (!galleryContainer) return;
+  galleryContainer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
 
-  nextBtn.addEventListener('click', () => {
-    if (currentPage < totalPages - 1) {
-      currentPage++;
-      renderGallery();
-      updatePaginationControls();
-      // Scroll to top of gallery
-      galleryContainer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+function attachEventListeners() {
+  if (prevBtn) {
+    prevBtn.addEventListener('click', () => {
+      if (currentPage > 0) {
+        currentPage -= 1;
+        renderGallery();
+        updatePaginationControls();
+        scrollToGalleryTop();
+      }
+    });
+  }
+
+  if (nextBtn) {
+    nextBtn.addEventListener('click', () => {
+      const totalPages = getTotalPages();
+      if (currentPage < totalPages - 1) {
+        currentPage += 1;
+        renderGallery();
+        updatePaginationControls();
+        scrollToGalleryTop();
+      }
+    });
+  }
+
+  window.addEventListener('popstate', event => {
+    const slug = event.state?.category || getSlugFromLocation();
+    if (slug && slug !== currentCategory?.slug) {
+      setCategory(slug, { skipUrlUpdate: true });
     }
   });
 }
 
-// Initialize when DOM is ready
+function updateUrl(slug, replace = false) {
+  const url = new URL(window.location.href);
+  url.searchParams.set('category', slug);
+  if (replace) {
+    history.replaceState({ category: slug }, '', url);
+  } else {
+    history.pushState({ category: slug }, '', url);
+  }
+}
+
+async function initGallery() {
+  try {
+    setMessage('Loading plots...');
+    galleryData = await fetchGalleryData();
+    if (sourcePath && galleryData.sourceDir) {
+      sourcePath.textContent = `Source: ${galleryData.sourceDir}`;
+    }
+    buildCategoryNav();
+    const initialSlug = getInitialCategorySlug();
+    setCategory(initialSlug, { skipUrlUpdate: true });
+    updateUrl(initialSlug, true);
+    attachEventListeners();
+    setMessage('');
+  } catch (error) {
+    console.error(error);
+    setMessage('ギャラリーデータの読み込みに失敗しました。`scripts/build-gallery-data.js` を再実行してください。', true);
+  }
+}
+
 if (document.readyState === 'loading') {
   document.addEventListener('DOMContentLoaded', initGallery);
 } else {
   initGallery();
 }
-

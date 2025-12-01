@@ -45,3 +45,30 @@ plotpages/
 
 - データを追加・削除したら、`node scripts/build-gallery-data.js ...` を再実行してください。
 - baseUrl に合わせてシンボリックリンク名やサーブ時のルートを揃えると、ブラウザから画像/HTMLにアクセスできます。
+
+## GitHub Pages 用の軽量ビルド
+
+フルサイズの `data_image` をそのままコミットすると容量超過になるため、公開用には軽量サンプルを作成してください。
+
+1. **サンプルを生成する**
+
+   ```bash
+   PUBLIC_GALLERY_INCLUDE="daircos:all-MiniLM-L6-v2_plot,daircos:google:embeddinggemma-300M_plot" \
+   PUBLIC_GALLERY_MAX_ITEMS=6 \
+   node scripts/create-public-gallery.js
+   ```
+
+   - 引数: `node scripts/create-public-gallery.js [sourceDir] [targetDir] [maxCategories] [maxItems] [manifestOutput] [baseUrl] [includeCommaSeparated]`
+   - 環境変数:  
+     `PUBLIC_GALLERY_MAX_CATEGORIES`, `PUBLIC_GALLERY_MAX_ITEMS`, `PUBLIC_GALLERY_BASE_URL`, `PUBLIC_GALLERY_INCLUDE`
+   - 生成物: `public_gallery/` 以下にコピーされた画像と、`assets/data/gallery-data.public.json`
+
+2. **フロントエンドで読み込む**
+
+   - `gh-pages.html` はデフォルトで `assets/data/gallery-data.public.json` を読み込む設定になっています。
+   - 既存ページでも `?data=gallery-data.public` を URL に付与するか、`<script src="assets/js/gallery.js" data-manifest="...">` を使えば任意のマニフェストを参照できます。
+
+3. **公開する**
+
+   - GitHub Pages 用ブランチでは `public_gallery/` と `assets/data/gallery-data.public.json`、`gh-pages.html` をコミットします。
+   - そのブランチで `gh-pages.html` を `index.html` として配置するか、ルートの `index.html` の `data-manifest` を公開用マニフェストに切り替えてください。

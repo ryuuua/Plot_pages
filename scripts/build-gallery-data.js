@@ -14,19 +14,7 @@ const fs = require('fs');
 const path = require('path');
 
 const allowedExt = new Set(['.png', '.jpg', '.jpeg', '.svg', '.html', '.htm']);
-
 const repoRoot = path.resolve(__dirname, '..');
-const sourceDir = path.resolve(
-  process.argv[2] || process.env.DATA_IMAGE_DIR || path.join(repoRoot, 'data_image')
-);
-const baseUrl =
-  process.argv[3] || process.env.DATA_IMAGE_BASE_URL || path.basename(sourceDir) || 'data_image';
-const outputPath = path.join(repoRoot, 'assets', 'data', 'gallery-data.json');
-
-if (!fs.existsSync(sourceDir)) {
-  console.error(`Source directory not found: ${sourceDir}`);
-  process.exit(1);
-}
 
 function slugify(name) {
   return name
@@ -99,7 +87,11 @@ function collectItems(root) {
   return items.sort((a, b) => a.file.localeCompare(b.file, undefined, { numeric: true }));
 }
 
-function buildManifest() {
+function buildManifest(sourceDir, baseUrl) {
+  if (!fs.existsSync(sourceDir)) {
+    throw new Error(`Source directory not found: ${sourceDir}`);
+  }
+
   const categories = [];
   const usedSlugs = new Set();
   const entries = fs.readdirSync(sourceDir, { withFileTypes: true });
@@ -130,8 +122,15 @@ function buildManifest() {
   };
 }
 
-function main() {
-  const manifest = buildManifest();
+function runCli() {
+  const sourceDir = path.resolve(
+    process.argv[2] || process.env.DATA_IMAGE_DIR || path.join(repoRoot, 'data_image')
+  );
+  const baseUrl =
+    process.argv[3] || process.env.DATA_IMAGE_BASE_URL || path.basename(sourceDir) || 'data_image';
+  const outputPath = path.join(repoRoot, 'assets', 'data', 'gallery-data.json');
+
+  const manifest = buildManifest(sourceDir, baseUrl);
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });
   fs.writeFileSync(outputPath, JSON.stringify(manifest, null, 2));
   console.log(
@@ -142,4 +141,21 @@ function main() {
   );
 }
 
-main();
+if (require.main === module) {
+  try {
+    runCli();
+  } catch (error) {
+    console.error(error.message || error);
+    process.exit(1);
+  }
+}
+
+module.exports = {
+  buildManifest,
+  slugify,
+  makeUniqueSlug,
+  prettifySegment,
+  formatTitle,
+  collectItems,
+  allowedExt
+};

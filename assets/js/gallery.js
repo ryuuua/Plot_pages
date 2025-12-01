@@ -1,4 +1,31 @@
 const PLOTS_PER_PAGE = 12;
+const DEFAULT_MANIFEST_PATH = 'assets/data/gallery-data.json';
+const currentScriptTag = document.currentScript;
+const scriptDefinedManifest = currentScriptTag?.dataset?.manifest;
+
+function resolveManifestPath() {
+  if (scriptDefinedManifest) {
+    return scriptDefinedManifest;
+  }
+
+  if (typeof window !== 'undefined' && window.GALLERY_DATA_PATH) {
+    return window.GALLERY_DATA_PATH;
+  }
+
+  if (typeof window !== 'undefined') {
+    const params = new URL(window.location.href).searchParams;
+    const manifestParam = params.get('data');
+    if (manifestParam) {
+      return manifestParam.endsWith('.json')
+        ? manifestParam
+        : `assets/data/${manifestParam}.json`;
+    }
+  }
+
+  return DEFAULT_MANIFEST_PATH;
+}
+
+const manifestPath = resolveManifestPath();
 
 let galleryData;
 let currentCategory = null;
@@ -26,7 +53,7 @@ function setMessage(message, isError = false) {
 }
 
 async function fetchGalleryData() {
-  const response = await fetch('assets/data/gallery-data.json', { cache: 'no-store' });
+  const response = await fetch(manifestPath, { cache: 'no-store' });
   if (!response.ok) {
     throw new Error(`Failed to load gallery data (${response.status})`);
   }
